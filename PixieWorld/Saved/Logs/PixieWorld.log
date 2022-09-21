@@ -1608,3 +1608,166 @@ Recommended: 516.25
 [2022.09.20-12.52.06:453][468]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_Level3D56BA29473459EF3ED034B8A9C03F79.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
 [2022.09.20-12.52.06:477][468]AssetCheck: New page: Asset Save: Practice_Level
 [2022.09.20-12.52.06:477][468]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
+[2022.09.20-12.55.41:576][208]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.276 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.20-13.02.06:648][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.20-13.02.06:648][355]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TerraHyphea/Levels/Practice_Level' took 0.009
+[2022.09.20-13.02.06:650][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blockout/WallMushroom] ([1] browsable assets)...
+[2022.09.20-13.02.06:696][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blockout/WallMushroom.WallMushroom]
+[2022.09.20-13.02.06:696][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blockout/WallMushroom]
+[2022.09.20-13.02.06:705][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blockout/WallMushroom_Auto3
+[2022.09.20-13.02.06:705][355]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/WallMushroom_Auto3C7EB7F964F5E8FD8DDE6A0B41AA4DC11.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Autosaves/Game/Blockout/WallMushroom_Auto3.uasset'
+[2022.09.20-13.02.06:706][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blockout/Mushroom] ([1] browsable assets)...
+[2022.09.20-13.02.06:722][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Blockout/Mushroom.Mushroom]
+[2022.09.20-13.02.06:722][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blockout/Mushroom]
+[2022.09.20-13.02.06:725][355]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blockout/Mushroom_Auto3
+[2022.09.20-13.02.06:725][355]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Mushroom_Auto3D983388D440CEE05CDF461B7D3D792D3.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Autosaves/Game/Blockout/Mushroom_Auto3.uasset'
+[2022.09.20-13.02.06:725][355]LogFileHelpers: Auto-saving content packages took 0.076
+[2022.09.20-14.40.10:282][963]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5682062ms] waiting for h/w. InstanceID=1
+[2022.09.20-14.40.11:294][964]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19148
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x566730c0810 [can pipeline])
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 1 (Re-using existing connection! (#8) with host datarouter.ol.epicgames.com)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.210.182.117) port 443 (#8))
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: 00000566AB29C300: libcurl info message cache 7 (Closing connection 8)
+[2022.09.20-14.40.11:294][964]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.20-14.40.11:647][965]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0afaf5e7-af32-4870-b363-fc7375df1f41}, Name=Luidsprekers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=299.75
+[2022.09.20-14.40.11:648][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.20-14.40.11:680][966]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.20-15.29.19:362][335]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [815837ms] waiting for h/w. InstanceID=1
+[2022.09.20-15.29.20:275][336]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19148
+[2022.09.20-15.29.20:701][337]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0afaf5e7-af32-4870-b363-fc7375df1f41}, Name=Luidsprekers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1097.65
+[2022.09.20-15.29.20:702][337]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.20-15.29.20:735][338]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x566730c0c90 [can pipeline])
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.233.110) port 443 (#10))
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: 00000566AB293200: libcurl info message cache 7 (Closing connection 10)
+[2022.09.20-15.29.20:737][338]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.20-18.41.32:653][692]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [4999ms] waiting for h/w. InstanceID=1
+[2022.09.20-18.41.32:653][692]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19148
+[2022.09.20-18.41.32:934][692]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0afaf5e7-af32-4870-b363-fc7375df1f41}, Name=Luidsprekers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=215.75
+[2022.09.20-18.41.32:934][692]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.20-18.41.32:947][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-08.34.07:280][705]LogHttp: Warning: 00000566AB294B00: HTTP request timed out after 49958.02 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: request failed, libcurl error: 0 (No error)
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x566730c0f30 [can pipeline])
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: libcurl info message cache 1 (Re-using existing connection! (#11) with host datarouter.ol.epicgames.com)
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.193.137.207) port 443 (#11))
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: libcurl info message cache 4 (Closing connection 11)
+[2022.09.21-08.34.08:385][705]LogHttp: Warning: 00000566AB294B00: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2022.09.21-08.34.08:387][705]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.21-08.34.09:864][707]LogHttp: Warning: 00000566AB293200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.09.21-08.34.09:864][707]LogHttp: Warning: 00000566AB293200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2022.09.21-08.34.09:864][707]LogHttp: Warning: 00000566AB293200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2022.09.21-08.34.09:864][707]LogHttp: Warning: 00000566AB293200: libcurl info message cache 1 (Closing connection 12)
+[2022.09.21-08.34.09:864][707]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF2D374EC-4AE6-9357-173A-70A44322BCCD%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=839874494be683c1213f7d89dfb6501c%7C783a22ddaff14dacbe76234b248ba278%7C80b825d4-84a2-41c4-88e7-efffb775526b&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.09.21-08.34.12:142][713]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.09.21-08.37.41:267][587]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.476 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.21-08.39.23:092][891]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Luidsprekers (UC02), InstanceID=1
+[2022.09.21-08.39.23:092][891]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19148
+[2022.09.21-08.39.23:423][891]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6e185a7f-c90b-4192-9ac3-5d0ac356be08}, Name=Luidsprekers (UC02)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.06
+[2022.09.21-08.39.23:423][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.21-08.39.23:436][892]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-08.54.53:449][747]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-08.54.53:543][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-08.54.53:544][747]PIE: New page: PIE session: Practice_Level (21 sep. 2022 12:54:53)
+[2022.09.21-08.54.53:547][747]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-08.54.53:611][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064465s)
+[2022.09.21-08.54.53:611][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.064906s)
+[2022.09.21-08.54.53:612][747]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-08.54.53:616][747]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-08.54.53:620][747]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-08.54.53:625][747]LogPlayLevel: PIE: World Init took: (0.013623s)
+[2022.09.21-08.54.53:678][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.09.21-08.54.53:679][747]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-08.54.53:680][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-08.54.53:680][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-08.54.53:685][747]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-08.54.53:685][747]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-08.54.53:685][747]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-08.54.53:719][747]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-08.54.53:740][747]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-08.54.53:743][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-08.54.53:743][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-08.54.53:744][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-08.54.53:748][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.09.21-08.54.53:748][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.09.21-08.54.53:750][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.09.21-08.54.53:750][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.09.21-08.54.53:750][747]LogInit: FAudioDevice initialized.
+[2022.09.21-08.54.53:750][747]LogAudio: Display: Audio Device (ID: 11) registered with world 'Practice_Level'.
+[2022.09.21-08.54.53:772][747]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-08.54.53:796][747]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 0) at 2022.09.21-10.54.53
+[2022.09.21-08.54.53:798][747]LogWorld: Bringing up level for play took: 0.024834
+[2022.09.21-08.54.53:800][747]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.09.21-08.54.53:805][747]PIE: Server logged in
+[2022.09.21-08.54.53:806][747]PIE: Play in editor total start time 0,264 seconds.
+[2022.09.21-08.56.22:473][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-08.56.22:473][695]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-08.56.22:473][695]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-08.56.22:475][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-08.56.22:493][695]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-08.56.22:495][695]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-08.56.22:502][695]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-08.56.22:502][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.09.21-08.56.22:504][695]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.09.21-08.56.22:510][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.09.21-08.56.22:591][696]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.09.21-08.56.24:152][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-08.56.24:167][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-08.56.24:167][800]PIE: New page: PIE session: Practice_Level (21 sep. 2022 12:56:24)
+[2022.09.21-08.56.24:202][800]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-08.56.24:213][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010496s)
+[2022.09.21-08.56.24:213][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.010602s)
+[2022.09.21-08.56.24:213][800]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-08.56.24:213][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-08.56.24:213][800]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-08.56.24:214][800]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2022.09.21-08.56.24:232][800]LogUObjectHash: Compacting FUObjectHashTables data took  11.76ms
+[2022.09.21-08.56.24:233][800]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-08.56.24:233][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-08.56.24:233][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-08.56.24:234][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-08.56.24:234][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-08.56.24:234][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-08.56.24:235][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-08.56.24:254][800]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-08.56.24:257][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-08.56.24:257][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-08.56.24:257][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-08.56.24:260][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.09.21-08.56.24:260][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.09.21-08.56.24:262][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.09.21-08.56.24:262][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.09.21-08.56.24:262][800]LogInit: FAudioDevice initialized.
+[2022.09.21-08.56.24:262][800]LogAudio: Display: Audio Device (ID: 12) registered with world 'Practice_Level'.
+[2022.09.21-08.56.24:275][800]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-08.56.24:279][800]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 0) at 2022.09.21-10.56.24
+[2022.09.21-08.56.24:280][800]LogWorld: Bringing up level for play took: 0.004743
+[2022.09.21-08.56.24:282][800]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.09.21-08.56.24:285][800]PIE: Server logged in
+[2022.09.21-08.56.24:286][800]PIE: Play in editor total start time 0,12 seconds.
