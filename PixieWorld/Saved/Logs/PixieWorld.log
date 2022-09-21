@@ -3157,3 +3157,479 @@ Recommended: 516.25
 [2022.09.21-12.47.20:880][268]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_Level5B11BCB641CECBA4EEB985AAE0386905.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
 [2022.09.21-12.47.20:908][268]AssetCheck: New page: Asset Save: Practice_Level
 [2022.09.21-12.47.20:908][268]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
+[2022.09.21-12.55.51:043][186]LogViewport: Scene viewport resized to 1523x688, mode Windowed.
+[2022.09.21-12.55.51:081][187]LogViewport: Scene viewport resized to 1523x670, mode Windowed.
+[2022.09.21-12.55.51:148][189]LogViewport: Scene viewport resized to 1523x625, mode Windowed.
+[2022.09.21-12.55.51:210][191]LogViewport: Scene viewport resized to 1523x587, mode Windowed.
+[2022.09.21-12.55.51:270][193]LogViewport: Scene viewport resized to 1523x561, mode Windowed.
+[2022.09.21-12.55.51:313][194]LogViewport: Scene viewport resized to 1523x546, mode Windowed.
+[2022.09.21-12.55.51:377][196]LogViewport: Scene viewport resized to 1523x514, mode Windowed.
+[2022.09.21-12.55.51:444][198]LogViewport: Scene viewport resized to 1523x492, mode Windowed.
+[2022.09.21-12.55.51:508][200]LogViewport: Scene viewport resized to 1523x480, mode Windowed.
+[2022.09.21-12.55.51:576][202]LogViewport: Scene viewport resized to 1523x468, mode Windowed.
+[2022.09.21-12.55.51:615][203]LogViewport: Scene viewport resized to 1523x467, mode Windowed.
+[2022.09.21-12.56.03:054][863]LogContentBrowser: Attempting asset rename: Flower -> Pink
+[2022.09.21-12.56.03:117][863]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Materials/Pink
+[2022.09.21-12.56.03:117][863]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Pink26EB67344315ED37AA99A685EE71C85D.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Materials/Pink.uasset'
+[2022.09.21-12.56.03:120][863]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Materials/Flower
+[2022.09.21-12.56.03:121][863]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Flower112E363B4CBC7B156F8481816531F77D.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Materials/Flower.uasset'
+[2022.09.21-12.56.03:139][863]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.21-12.56.03:139][863]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Blockout/Materials/Pink.Pink
+[2022.09.21-12.56.03:139][863]LogContentValidation: Display: Validating ObjectRedirector /Game/TerraHyphea/Blockout/Materials/Flower.Flower
+[2022.09.21-12.56.08:644][180]LogContentBrowser: Deferred new asset file creation: NewMaterial1
+[2022.09.21-12.56.08:650][180]LogContentBrowser: Creating deferred item: NewMaterial1
+[2022.09.21-12.56.08:658][181]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial1).
+[2022.09.21-12.56.10:189][273]LogContentBrowser: Attempting asset rename: NewMaterial1 -> Brown
+[2022.09.21-12.56.10:189][273]LogContentBrowser: End creating deferred item NewMaterial1
+[2022.09.21-12.56.11:674][359]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TerraHyphea/Blockout/Materials/Brown.Brown
+[2022.09.21-12.56.11:676][359]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 0B2132A0A520584427D0B5FDA3F3E1934D00ED33), compiling. 
+[2022.09.21-12.56.11:695][359]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-12.56.11:791][359]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 2F74D56AA4FD4AA795F7989AC902413A01766838), compiling. 
+[2022.09.21-12.56.11:796][359]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: A8FD8B1E79428C5BEE6239106C9F974565478D48), compiling. 
+[2022.09.21-12.56.11:831][359]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.11:831][359]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.11:832][359]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.11:838][359]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: ================================================
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Total job queries 3763, among them cache hits 695 (18.47%)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Tracking 2908 distinct input hashes that result in 1318 distinct outputs (45.32%)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: RAM used: 7.39 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.90%
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Shaders Compiled: 2804
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Jobs assigned 2911, completed 2908 (99.90%)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Average time worker was idle: 78.24 s
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Time job spent in pending queue: average 122.29 s, longest 446.05 s
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Job execution time: average 18.95 s, max 66.66 s
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Job life time (pending + execution): average 141.37 s, max 448.75
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 916.41 s
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Jobs were issued in 829 batches (only local compilation was used), average 3.51 jobs/batch
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Average processing rate: 3.17 jobs/sec
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Effective parallelization: 7.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled   10 times, average 5.69 sec, max 7.69 sec, min 5.12 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQFAnyHitShader (compiled   10 times, average 5.66 sec, max 5.89 sec, min 5.18 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                   TMaterialCHSTLightMapPolicyHQFAnyHitShader (compiled   10 times, average 5.66 sec, max 6.32 sec, min 4.31 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                   TMaterialCHSTLightMapPolicyLQFAnyHitShader (compiled   10 times, average 5.54 sec, max 6.48 sec, min 4.47 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 5.53 sec, max 8.21 sec, min 2.69 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                                             FDebugViewModePS - 6.19% of total time (compiled   82 times, average 4.90 sec, max 25.13 sec, min 0.43 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 3.79% of total time (compiled  131 times, average 1.88 sec, max 7.15 sec, min 0.72 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.66% of total time (compiled  131 times, average 1.81 sec, max 6.01 sec, min 0.60 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 3.55% of total time (compiled   60 times, average 3.84 sec, max 11.45 sec, min 1.40 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display:                                                 FLumenCardVS - 3.36% of total time (compiled  112 times, average 1.95 sec, max 5.88 sec, min 0.82 sec)
+[2022.09.21-12.56.12:606][388]LogShaderCompilers: Display: ================================================
+[2022.09.21-12.56.13:234][412]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.13:234][412]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.13:234][412]MaterialEditorStats: Shader Count: 4
+[2022.09.21-12.56.14:969][509]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 67B24665A5B04EF284AD05DCE2A017BCC2E3DC4A), compiling. 
+[2022.09.21-12.56.14:971][509]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5D5578B8AF72785E9795589F3222C57A3D6B5F36), compiling. 
+[2022.09.21-12.56.14:975][509]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.14:975][509]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.14:975][509]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.15:009][511]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.15:009][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.15:009][511]MaterialEditorStats: Shader Count: 4
+[2022.09.21-12.56.19:095][731]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 1B3CCCE5041E51EDB314729BF62496A31149BB61), compiling. 
+[2022.09.21-12.56.19:098][731]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 592DC40CBFBD1404184E8A5078581EFCD5065147), compiling. 
+[2022.09.21-12.56.19:103][731]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.19:103][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.19:103][731]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.19:128][733]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.19:129][733]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.19:129][733]MaterialEditorStats: Shader Count: 2
+[2022.09.21-12.56.21:738][872]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: AC83A379FBB3619F3BF58EA97A8F7BF76E3F33D0), compiling. 
+[2022.09.21-12.56.21:740][872]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BB0D9A445845CE361EBD7D3A5DA576E03D61EBE4), compiling. 
+[2022.09.21-12.56.21:744][872]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.21:744][872]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.21:744][872]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.21:785][875]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.21:785][875]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.21:785][875]MaterialEditorStats: Shader Count: 4
+[2022.09.21-12.56.22:739][925]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 28715E995B060425869CCD928DAF66F011DAA484), compiling. 
+[2022.09.21-12.56.22:742][925]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2D06394E5B70505D2D5442314149224BDA611A72), compiling. 
+[2022.09.21-12.56.22:745][925]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.22:745][925]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.22:745][925]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.23:979][964]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.23:980][964]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.23:980][964]MaterialEditorStats: Shader Count: 4
+[2022.09.21-12.56.24:294][976]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: F31BA9265D865CCA8D5B6401F3F2FFB6F6F0E8D1), compiling. 
+[2022.09.21-12.56.24:296][976]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5BBE7B8C05004A212DAFF5CF91F1CF00778FD613), compiling. 
+[2022.09.21-12.56.24:301][976]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.24:302][976]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.24:302][976]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.25:641][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.25:641][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.25:641][ 17]MaterialEditorStats: Shader Count: 3
+[2022.09.21-12.56.26:515][ 59]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 4556206D24563E6D3B96F1A5E34A19379DDD53B8), compiling. 
+[2022.09.21-12.56.26:517][ 59]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: CB6E90C72CE0D7D652614BB6B56D87C044516AC7), compiling. 
+[2022.09.21-12.56.26:521][ 59]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.56.26:521][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.26:521][ 59]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.56.27:952][ 97]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 7961D7A342FC025CD50608A987F4EA1D6F908440), compiling. 
+[2022.09.21-12.56.27:956][ 97]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E5831371CC0E22CE2F456830FB0BA755D283FACC), compiling. 
+[2022.09.21-12.56.28:599][114]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 4AFB5BA792C4F335B8F388084C04A9CEC264E6B6), compiling. 
+[2022.09.21-12.56.28:605][114]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B7630E1AC44A2C23F99E73C6A02ADDC0510E22DE), compiling. 
+[2022.09.21-12.56.29:771][138]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 552AD349A926F992819402F7C437786A2BA7AC11), compiling. 
+[2022.09.21-12.56.29:776][138]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A1AE9B2132E90AD3A56D610FC920D9257098D4C), compiling. 
+[2022.09.21-12.56.29:780][138]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.21-12.56.30:761][162]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.56.30:761][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.30:761][162]MaterialEditorStats: Shader Count: 3
+[2022.09.21-12.56.32:700][247]LogMaterialEditor: Saving and Compiling material Brown
+[2022.09.21-12.56.33:182][247]LogMaterial: Display: Missing cached shadermap for Preview:Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 2D205DA664D1C6C38A494EED6F58799BA3C5D942), compiling. 
+[2022.09.21-12.56.33:202][247]LogMaterial: Display: Missing cached shadermap for Brown in PCD3D_SM5, Default, SM5 (DDC key hash: 3E0757DECA45A8EC7678DDCB47F7884A360FF1BE), compiling. 
+[2022.09.21-12.56.33:261][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.21-12.56.34:014][247]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.21-12.56.36:132][247]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.09.21-12.56.37:721][247]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003052s (1.597784s overbudget)
+[2022.09.21-12.56.37:751][247]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Materials/Brown
+[2022.09.21-12.56.37:751][247]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Brown7DB453F3445543A161BCE6B3D181060A.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Materials/Brown.uasset'
+[2022.09.21-12.56.37:767][247]AssetCheck: New page: Asset Save: Brown
+[2022.09.21-12.56.37:767][247]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Blockout/Materials/Brown.Brown
+[2022.09.21-12.56.37:768][247]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.09.21-12.56.37:768][247]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.09.21-12.56.37:768][247]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.21-12.56.37:768][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.56.37:768][247]MaterialEditorStats: Shader Count: 21
+[2022.09.21-12.56.39:797][352]LogSlate: Window 'Brown' being destroyed
+[2022.09.21-12.56.39:816][352]LogSlate: Window 'Brown' being destroyed
+[2022.09.21-12.56.39:823][352]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-12.56.39:823][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.57.06:302][729]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\iriss\Desktop\Project Vrij\3D models\Gebied1\Block out\Stick.fbx)
+[2022.09.21-12.57.06:309][729]LogFbx: Loading FBX Scene from C:\Users\iriss\Desktop\Project Vrij\3D models\Gebied1\Block out\Stick.fbx
+[2022.09.21-12.57.06:314][729]LogFbx: FBX Scene Loaded Succesfully
+[2022.09.21-12.57.07:595][729]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.09.21-12.57.07:616][729]LogFbx: Display: Triangulating static mesh Cylinder
+[2022.09.21-12.57.07:641][729]LogStaticMesh: Display: Building static mesh Stick...
+[2022.09.21-12.57.07:651][729]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.57.07:666][729]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.09.21-12.57.11:438][913]LogSlate: Window 'Message Log' being destroyed
+[2022.09.21-12.57.11:449][913]LogSlate: Window 'Message Log' being destroyed
+[2022.09.21-12.57.12:908][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.57.12:908][993]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.57.12:909][993]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick as actor: StaticMeshActor /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.StaticMeshActor_73
+[2022.09.21-12.57.16:173][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.57.16:173][188]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.57.16:174][188]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick as actor: StaticMeshActor /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.StaticMeshActor_74
+[2022.09.21-12.57.52:792][308]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TerraHyphea/Blockout/Materials/Brown.Brown
+[2022.09.21-12.57.52:794][308]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FEDACF7FB34E054318B2C3BD87CBE988F98932C7), compiling. 
+[2022.09.21-12.57.52:814][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-12.57.52:937][308]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 27AC7915576833A59E7009709B1EF80AB6BBA04A), compiling. 
+[2022.09.21-12.57.52:942][308]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8D1E53C6EBA0F8CD95D0FB726A2E26C8B641C144), compiling. 
+[2022.09.21-12.57.52:944][308]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C811591BE287046CCF155259E0ABD04D32EE1014), compiling. 
+[2022.09.21-12.57.52:972][308]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.57.52:973][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.57.52:973][308]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.57.52:981][308]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2022.09.21-12.57.54:426][357]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.57.54:426][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.57.54:426][357]MaterialEditorStats: Shader Count: 4
+[2022.09.21-12.57.56:596][462]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 4BC242B7F4A489579E3B62B8E9A9F999DEBBB4CE), compiling. 
+[2022.09.21-12.57.56:599][462]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A5DC94D2E3314FD39E5CE405BF2D1201C8A48805), compiling. 
+[2022.09.21-12.57.56:603][462]MaterialEditorStats: Texture samplers: 0/16
+[2022.09.21-12.57.56:603][462]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.57.56:603][462]MaterialEditorStats: Shader Count: 0
+[2022.09.21-12.57.56:984][474]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8178AB629D999EFD96B1B6BD961D28DE0C72AA0C), compiling. 
+[2022.09.21-12.57.56:988][474]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: FE755758B659D83C0EA20BE030BACC9953A846EE), compiling. 
+[2022.09.21-12.57.57:901][494]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E4F62FCE54C121204BDC850F4785BC9FC1F3CCAE), compiling. 
+[2022.09.21-12.57.57:907][494]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 536DA612F972AA13F309F25DAE6B8FD35784F4DF), compiling. 
+[2022.09.21-12.57.57:912][494]LogSlate: Window 'Color Picker' being destroyed
+[2022.09.21-12.57.58:877][520]MaterialEditorStats: Texture samplers: 2/16
+[2022.09.21-12.57.58:878][520]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.57.58:878][520]MaterialEditorStats: Shader Count: 4
+[2022.09.21-12.57.59:499][542]LogMaterialEditor: Saving and Compiling material Brown
+[2022.09.21-12.57.59:969][542]LogMaterial: Display: Missing cached shadermap for Preview:PreviewMaterial_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 24CF5D2D09647155AF992CDDF020D012AD04BDE5), compiling. 
+[2022.09.21-12.57.59:987][542]LogMaterial: Display: Missing cached shadermap for Brown in PCD3D_SM5, Default, SM5 (DDC key hash: A43340FCEB122D906BAE5DF32D4878B5E7002738), compiling. 
+[2022.09.21-12.58.00:052][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.09.21-12.58.01:318][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.09.21-12.58.03:424][542]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.09.21-12.58.04:470][542]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.002931s (1.054255s overbudget)
+[2022.09.21-12.58.04:496][542]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Materials/Brown
+[2022.09.21-12.58.04:497][542]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Brown9E51D4CB405A633124EFED972079DE03.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Materials/Brown.uasset'
+[2022.09.21-12.58.04:516][542]AssetCheck: New page: Asset Save: Brown
+[2022.09.21-12.58.04:516][542]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Blockout/Materials/Brown.Brown
+[2022.09.21-12.58.04:518][542]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.09.21-12.58.04:518][542]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.09.21-12.58.04:518][542]MaterialEditorStats: Texture samplers: 3/16
+[2022.09.21-12.58.04:518][542]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.09.21-12.58.04:518][542]MaterialEditorStats: Shader Count: 21
+[2022.09.21-12.58.39:297][783]LogSlate: Window 'Brown' being destroyed
+[2022.09.21-12.58.39:320][783]LogSlate: Window 'Brown' being destroyed
+[2022.09.21-12.58.39:331][783]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-12.58.39:331][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.58.47:164][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.58.47:164][233]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.58.47:164][233]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick as actor: StaticMeshActor /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.StaticMeshActor_75
+[2022.09.21-12.58.48:923][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.58.48:923][337]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-12.58.48:924][337]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick as actor: StaticMeshActor /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.StaticMeshActor_76
+[2022.09.21-12.59.21:967][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.21-12.59.22:034][284]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Levels/Practice_Level
+[2022.09.21-12.59.22:035][284]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_LevelA82BB7EE4D1BFBD602D617B332D7A410.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
+[2022.09.21-12.59.22:060][284]AssetCheck: New page: Asset Save: Practice_Level
+[2022.09.21-12.59.22:060][284]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
+[2022.09.21-12.59.29:426][550]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-12.59.29:434][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-12.59.29:434][550]PIE: New page: PIE session: Practice_Level (21 sep. 2022 16:59:29)
+[2022.09.21-12.59.29:434][550]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-12.59.29:448][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013056s)
+[2022.09.21-12.59.29:448][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.013164s)
+[2022.09.21-12.59.29:448][550]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-12.59.29:448][550]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-12.59.29:448][550]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-12.59.29:449][550]LogPlayLevel: PIE: World Init took: (0.001094s)
+[2022.09.21-12.59.29:459][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.09.21-12.59.29:460][550]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-12.59.29:460][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-12.59.29:460][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-12.59.29:460][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-12.59.29:460][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-12.59.29:460][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-12.59.29:462][550]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-12.59.29:484][550]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-12.59.29:484][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-12.59.29:484][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-12.59.29:484][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-12.59.29:485][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.09.21-12.59.29:485][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.09.21-12.59.29:487][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.09.21-12.59.29:487][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.09.21-12.59.29:487][550]LogInit: FAudioDevice initialized.
+[2022.09.21-12.59.29:487][550]LogAudio: Display: Audio Device (ID: 3) registered with world 'Practice_Level'.
+[2022.09.21-12.59.29:501][550]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-12.59.29:506][550]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.21-14.59.29
+[2022.09.21-12.59.29:506][550]LogWorld: Bringing up level for play took: 0.004866
+[2022.09.21-12.59.29:508][550]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.09.21-12.59.29:511][550]PIE: Server logged in
+[2022.09.21-12.59.29:512][550]PIE: Play in editor total start time 0,077 seconds.
+[2022.09.21-12.59.42:882][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-12.59.42:882][339]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-12.59.42:883][339]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-12.59.42:883][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.59.42:898][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-12.59.42:900][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-12.59.42:909][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.21-12.59.42:909][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.21-12.59.42:911][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.21-12.59.42:914][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-12.59.42:917][339]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.21-12.59.42:966][341]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.09.21-12.59.58:597][244]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.21-12.59.59:744][308]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-12.59.59:753][308]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-12.59.59:753][308]PIE: New page: PIE session: Practice_Level (21 sep. 2022 16:59:59)
+[2022.09.21-12.59.59:802][308]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-12.59.59:814][308]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012482s)
+[2022.09.21-12.59.59:814][308]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.012587s)
+[2022.09.21-12.59.59:814][308]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-12.59.59:814][308]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-12.59.59:814][308]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-12.59.59:815][308]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2022.09.21-12.59.59:824][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.09.21-12.59.59:826][308]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-12.59.59:826][308]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-12.59.59:826][308]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-12.59.59:827][308]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-12.59.59:827][308]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-12.59.59:827][308]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-12.59.59:829][308]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-12.59.59:849][308]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-12.59.59:850][308]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-12.59.59:850][308]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-12.59.59:850][308]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-12.59.59:850][308]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.21-12.59.59:850][308]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.09.21-12.59.59:852][308]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.21-12.59.59:852][308]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.21-12.59.59:852][308]LogInit: FAudioDevice initialized.
+[2022.09.21-12.59.59:852][308]LogAudio: Display: Audio Device (ID: 4) registered with world 'Practice_Level'.
+[2022.09.21-12.59.59:861][308]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-12.59.59:866][308]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.21-14.59.59
+[2022.09.21-12.59.59:866][308]LogWorld: Bringing up level for play took: 0.004839
+[2022.09.21-12.59.59:868][308]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.09.21-12.59.59:871][308]PIE: Server logged in
+[2022.09.21-12.59.59:871][308]PIE: Play in editor total start time 0,119 seconds.
+[2022.09.21-13.00.27:272][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.00.27:272][944]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.00.27:273][944]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-13.00.27:273][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.00.27:283][944]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-13.00.27:286][944]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.00.27:295][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.00.27:296][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.21-13.00.27:297][944]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.21-13.00.27:303][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.09.21-13.00.27:352][946]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.09.21-13.00.31:667][196]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-13.00.31:675][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-13.00.31:675][196]PIE: New page: PIE session: Practice_Level (21 sep. 2022 17:00:31)
+[2022.09.21-13.00.31:712][196]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.00.31:724][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012404s)
+[2022.09.21-13.00.31:724][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.012509s)
+[2022.09.21-13.00.31:724][196]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-13.00.31:724][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-13.00.31:724][196]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-13.00.31:725][196]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2022.09.21-13.00.31:734][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.09.21-13.00.31:736][196]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-13.00.31:736][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-13.00.31:736][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-13.00.31:736][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-13.00.31:736][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-13.00.31:736][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-13.00.31:738][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-13.00.31:759][196]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-13.00.31:759][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-13.00.31:759][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-13.00.31:759][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-13.00.31:759][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.21-13.00.31:759][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.09.21-13.00.31:761][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.21-13.00.31:761][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.21-13.00.31:761][196]LogInit: FAudioDevice initialized.
+[2022.09.21-13.00.31:761][196]LogAudio: Display: Audio Device (ID: 5) registered with world 'Practice_Level'.
+[2022.09.21-13.00.31:773][196]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-13.00.31:777][196]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.21-15.00.31
+[2022.09.21-13.00.31:778][196]LogWorld: Bringing up level for play took: 0.004783
+[2022.09.21-13.00.31:780][196]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.09.21-13.00.31:782][196]PIE: Server logged in
+[2022.09.21-13.00.31:783][196]PIE: Play in editor total start time 0,108 seconds.
+[2022.09.21-13.00.41:442][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.00.41:442][769]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.00.41:442][769]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-13.00.41:443][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.00.41:455][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-13.00.41:458][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.00.41:467][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.00.41:468][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.21-13.00.41:469][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.09.21-13.00.41:475][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.09.21-13.00.41:514][770]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.09.21-13.00.48:339][165]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-13.00.48:347][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-13.00.48:347][165]PIE: New page: PIE session: Practice_Level (21 sep. 2022 17:00:48)
+[2022.09.21-13.00.48:347][165]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.00.48:360][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013052s)
+[2022.09.21-13.00.48:360][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.013132s)
+[2022.09.21-13.00.48:360][165]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-13.00.48:360][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-13.00.48:360][165]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-13.00.48:361][165]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2022.09.21-13.00.48:370][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.09.21-13.00.48:371][165]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-13.00.48:371][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-13.00.48:371][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-13.00.48:372][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-13.00.48:372][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-13.00.48:372][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-13.00.48:373][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-13.00.48:393][165]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-13.00.48:394][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-13.00.48:394][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-13.00.48:394][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-13.00.48:394][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.09.21-13.00.48:394][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.09.21-13.00.48:396][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.09.21-13.00.48:396][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.09.21-13.00.48:396][165]LogInit: FAudioDevice initialized.
+[2022.09.21-13.00.48:396][165]LogAudio: Display: Audio Device (ID: 6) registered with world 'Practice_Level'.
+[2022.09.21-13.00.48:414][165]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-13.00.48:421][165]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.21-15.00.48
+[2022.09.21-13.00.48:422][165]LogWorld: Bringing up level for play took: 0.006939
+[2022.09.21-13.00.48:423][165]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.09.21-13.00.48:426][165]PIE: Server logged in
+[2022.09.21-13.00.48:427][165]PIE: Play in editor total start time 0,081 seconds.
+[2022.09.21-13.01.34:602][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.01.34:602][928]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.01.34:602][928]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-13.01.34:602][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.01.34:617][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-13.01.34:620][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.01.34:629][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.01.34:630][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.21-13.01.34:631][928]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.09.21-13.01.34:638][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.09.21-13.01.34:676][929]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.09.21-13.01.52:629][971]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-13.01.52:637][971]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-13.01.52:637][971]PIE: New page: PIE session: Practice_Level (21 sep. 2022 17:01:52)
+[2022.09.21-13.01.52:637][971]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.01.52:650][971]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012899s)
+[2022.09.21-13.01.52:650][971]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.012983s)
+[2022.09.21-13.01.52:650][971]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-13.01.52:650][971]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-13.01.52:650][971]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-13.01.52:651][971]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2022.09.21-13.01.52:661][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.09.21-13.01.52:664][971]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-13.01.52:664][971]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-13.01.52:664][971]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-13.01.52:664][971]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-13.01.52:664][971]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-13.01.52:664][971]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-13.01.52:666][971]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-13.01.52:686][971]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.21-13.01.52:686][971]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-13.01.52:686][971]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-13.01.52:686][971]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-13.01.52:687][971]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.09.21-13.01.52:687][971]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.09.21-13.01.52:688][971]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.09.21-13.01.52:688][971]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.09.21-13.01.52:688][971]LogInit: FAudioDevice initialized.
+[2022.09.21-13.01.52:688][971]LogAudio: Display: Audio Device (ID: 7) registered with world 'Practice_Level'.
+[2022.09.21-13.01.52:699][971]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-13.01.52:703][971]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.21-15.01.52
+[2022.09.21-13.01.52:704][971]LogWorld: Bringing up level for play took: 0.004763
+[2022.09.21-13.01.52:705][971]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.09.21-13.01.52:708][971]PIE: Server logged in
+[2022.09.21-13.01.52:709][971]PIE: Play in editor total start time 0,072 seconds.
+[2022.09.21-13.02.34:332][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.02.34:332][461]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-13.02.34:332][461]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-13.02.34:333][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.02.34:349][461]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-13.02.34:353][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-13.02.34:362][461]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.21-13.02.34:362][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.21-13.02.34:364][461]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.09.21-13.02.34:367][461]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-13.02.34:370][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.09.21-13.02.34:397][462]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.09.21-13.03.21:419][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.09.21-13.03.21:485][196]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Levels/Practice_Level
+[2022.09.21-13.03.21:486][196]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_LevelA05F692640DC09090B4F9EA6C3F39A21.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
+[2022.09.21-13.03.21:510][196]AssetCheck: New page: Asset Save: Practice_Level
+[2022.09.21-13.03.21:511][196]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
