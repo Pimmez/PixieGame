@@ -3633,3 +3633,185 @@ Recommended: 516.25
 [2022.09.21-13.03.21:486][196]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_LevelA05F692640DC09090B4F9EA6C3F39A21.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
 [2022.09.21-13.03.21:510][196]AssetCheck: New page: Asset Save: Practice_Level
 [2022.09.21-13.03.21:511][196]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
+[2022.09.21-13.22.17:225][261]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.644 and deleted 6 file(s) with total size 0 MiB.
+[2022.09.21-13.24.20:840][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TerraHyphea/Blockout/Models/Stick" FILE="../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Stick.uasset" SILENT=true
+[2022.09.21-13.24.20:845][685]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Models/Stick
+[2022.09.21-13.24.20:845][685]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/StickF01FCD2146343AB4D64E32941A3FB190.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Stick.uasset'
+[2022.09.21-13.24.20:863][685]AssetCheck: New page: Asset Save: Stick
+[2022.09.21-13.24.20:863][685]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Blockout/Models/Stick.Stick
+[2022.09.21-13.42.38:481][ 12]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Luidsprekers (Realtek(R) Audio), InstanceID=1
+[2022.09.21-13.42.38:481][ 12]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26728
+[2022.09.21-13.42.38:813][ 12]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0afaf5e7-af32-4870-b363-fc7375df1f41}, Name=Luidsprekers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.55
+[2022.09.21-13.42.38:813][ 12]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.21-13.42.38:820][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-14.00.32:941][610]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.21-14.00.32:961][610]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.21-14.00.32:961][610]PIE: New page: PIE session: Practice_Level (21 sep. 2022 18:00:32)
+[2022.09.21-14.00.32:987][610]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-14.00.33:018][610]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030547s)
+[2022.09.21-14.00.33:018][610]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.030885s)
+[2022.09.21-14.00.33:018][610]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.21-14.00.33:019][610]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.21-14.00.33:019][610]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.21-14.00.33:020][610]LogPlayLevel: PIE: World Init took: (0.002090s)
+[2022.09.21-14.00.33:045][610]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.09.21-14.00.33:057][610]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.09.21-14.00.33:057][610]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.21-14.00.33:057][610]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.21-14.00.33:057][610]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.21-14.00.33:057][610]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.21-14.00.33:058][610]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.21-14.00.33:058][610]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.21-14.00.33:058][610]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.21-14.00.33:058][610]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.21-14.00.33:058][610]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.21-14.00.33:058][610]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.21-14.00.33:058][610]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.21-14.00.33:062][610]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.21-14.00.33:090][610]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Realtek(R) Audio)
+[2022.09.21-14.00.33:092][610]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.21-14.00.33:092][610]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.21-14.00.33:092][610]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.21-14.00.33:096][610]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2022.09.21-14.00.33:096][610]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2022.09.21-14.00.33:098][610]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2022.09.21-14.00.33:098][610]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2022.09.21-14.00.33:098][610]LogInit: FAudioDevice initialized.
+[2022.09.21-14.00.33:098][610]LogAudio: Display: Audio Device (ID: 8) registered with world 'Practice_Level'.
+[2022.09.21-14.00.33:125][610]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.21-14.00.33:141][610]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.21-16.00.33
+[2022.09.21-14.00.33:142][610]LogWorld: Bringing up level for play took: 0.016434
+[2022.09.21-14.00.33:145][610]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.09.21-14.00.33:152][610]PIE: Server logged in
+[2022.09.21-14.00.33:153][610]PIE: Play in editor total start time 0,193 seconds.
+[2022.09.21-14.00.41:998][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-14.00.41:998][867]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.21-14.00.41:998][867]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.21-14.00.41:999][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-14.00.42:066][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.21-14.00.42:070][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.21-14.00.42:080][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.21-14.00.42:080][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.21-14.00.42:082][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2022.09.21-14.00.42:091][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.09.21-14.00.42:148][868]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.09.21-14.02.50:430][873]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Luidsprekers (UC02), InstanceID=1
+[2022.09.21-14.02.50:430][873]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=26728
+[2022.09.21-14.02.50:758][873]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{6e185a7f-c90b-4192-9ac3-5d0ac356be08}, Name=Luidsprekers (UC02)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=34.36
+[2022.09.21-14.02.50:758][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.09.21-14.02.50:765][874]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.21-14.22.17:887][356]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.396 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.21-14.42.26:900][668]LogViewport: Scene viewport resized to 1167x467, mode Windowed.
+[2022.09.21-14.42.34:948][871]Cmd: TRANSACTION UNDO
+[2022.09.21-14.42.34:948][871]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.09.21-14.43.10:614][965]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.10:614][965]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.09.21-14.43.10:692][965]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.21-14.43.14:729][187]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.14:729][187]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.09.21-14.43.23:629][693]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.23:629][693]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.09.21-14.43.38:533][560]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.38:533][560]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.09.21-14.43.38:575][560]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.21-14.43.39:330][590]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.39:330][590]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.09.21-14.43.39:390][591]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.21-14.43.41:342][707]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.41:343][707]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.09.21-14.43.45:385][943]Cmd: TRANSACTION UNDO
+[2022.09.21-14.43.45:385][943]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.09.21-14.44.14:164][623]Cmd: TRANSACTION UNDO
+[2022.09.21-14.44.14:164][623]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.09.21-14.44.14:221][623]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.21-14.45.04:341][533]Cmd: TRANSACTION UNDO
+[2022.09.21-14.45.04:341][533]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2022.09.21-14.45.04:360][533]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_48 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.45.04:362][533]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_32 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.45.04:365][533]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_46 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.45.04:410][533]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_30 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.13:458][407]LogViewport: Scene viewport resized to 1523x467, mode Windowed.
+[2022.09.21-14.50.15:689][533]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.09.21-14.50.18:048][670]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.09.21-14.50.19:746][670]LogSlate: Window 'Save Content' being destroyed
+[2022.09.21-14.50.19:868][670]LogSavePackage: Moving output files for package: /Game/ThirdPartyAssets/ForestLandscape/Materials/defaultLandscape/fl1_mossGround_II_2
+[2022.09.21-14.50.19:868][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/fl1_mossGround_II_2FC9533B24501B1D6C1D4ECA76123B8BF.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/ThirdPartyAssets/ForestLandscape/Materials/defaultLandscape/fl1_mossGround_II_2.uasset'
+[2022.09.21-14.50.19:912][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Models/Flower1
+[2022.09.21-14.50.19:913][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Flower12A6EFDA14AA2B6F9130D1B95102CF1FE.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Flower1.uasset'
+[2022.09.21-14.50.19:940][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TerraHyphea/Blockout/Models/Grass" FILE="../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Grass.uasset" SILENT=true
+[2022.09.21-14.50.19:943][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Models/Grass
+[2022.09.21-14.50.19:943][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Grass9DB8F2D542740E5793A8B3912C904A66.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Grass.uasset'
+[2022.09.21-14.50.19:946][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Levels/Practice_Level_sharedassets/grass_LayerInfo
+[2022.09.21-14.50.19:946][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/grass_LayerInfo0EC787B24FCC442BCFF00AA97A370CFA.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level_sharedassets/grass_LayerInfo.uasset'
+[2022.09.21-14.50.19:946][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/ground_LayerInfo
+[2022.09.21-14.50.19:947][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/ground_LayerInfo0C1C9D0C4343E0CC99FDCCA92F868001.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/ground_LayerInfo.uasset'
+[2022.09.21-14.50.19:958][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2022.09.21-14.50.19:969][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_0 (BGRA8, 256X256 X1X1) (Required Memory Estimate: 1.66666 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:972][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_98 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:974][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_92 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:977][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_93 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:979][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_94 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:981][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_95 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:983][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_96 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:986][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_97 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:988][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_99 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:991][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_91 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:993][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_100 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.19:996][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_101 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:000][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_102 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:002][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_115 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:005][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_114 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:007][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_113 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:009][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_112 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:014][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_110 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:020][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_107 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:022][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_106 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:026][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_104 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:028][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_103 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:031][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_21 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:033][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_22 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:046][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_29 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:049][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_31 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:051][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_33 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:053][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_34 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:058][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_36 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:069][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_42 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:073][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_44 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:077][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_47 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:080][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_49 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:082][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_50 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:086][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_52 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:091][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_54 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:095][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_56 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:103][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_60 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:107][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_62 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:111][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_64 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:116][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_66 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:120][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_68 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:124][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_70 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:128][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_72 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:135][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_76 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:137][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_77 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:139][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_78 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:142][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_79 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:144][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_80 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:147][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_81 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:149][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_82 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:152][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_83 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:154][670]LogTexture: Display: Building textures: /Game/TerraHyphea/Levels/Practice_Level.Practice_Level:PersistentLevel.Landscape_1.Heightmap_84 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.026035 MB), EncodeSpeed: Fast
+[2022.09.21-14.50.20:221][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Levels/Practice_Level
+[2022.09.21-14.50.20:222][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_Level623D5D084E412067A47BC0A7FB52A75A.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
+[2022.09.21-14.50.20:238][670]LogFileHelpers: Saving map 'Practice_Level' took 0.290
+[2022.09.21-14.50.20:250][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Models/Stone1
+[2022.09.21-14.50.20:250][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Stone16833EC874A178E83BD96AFA521C029B5.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Stone1.uasset'
+[2022.09.21-14.50.20:263][670]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Models/Stone2
+[2022.09.21-14.50.20:263][670]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Stone20EB21CB4459E3218E3199E9DDD5DAAE7.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Models/Stone2.uasset'
+[2022.09.21-14.50.20:291][670]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Blockout/Models/Stone2.Stone2
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Blockout/Models/Stone1.Stone1
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Blockout/Models/Grass.Grass
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Blockout/Models/Flower1.Flower1
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/TerraHyphea/Levels/Practice_Level_sharedassets/grass_LayerInfo.grass_LayerInfo
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating MaterialFunction /Game/ThirdPartyAssets/ForestLandscape/Materials/defaultLandscape/fl1_mossGround_II_2.fl1_mossGround_II_2
+[2022.09.21-14.50.20:291][670]LogContentValidation: Display: Validating LandscapeLayerInfoObject /Game/TerraHyphea/Blockout/ground_LayerInfo.ground_LayerInfo
