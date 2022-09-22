@@ -1946,3 +1946,11 @@ Recommended: 516.25
 [2022.09.22-11.21.12:756][ 71]AssetCheck: New page: Asset Save: Slime
 [2022.09.22-11.21.12:756][ 71]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Blockout/Materials/Slime.Slime
 [2022.09.22-11.22.32:938][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.22-11.24.08:748][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.22-11.24.09:992][210]LogSlate: Window 'Save Content' being destroyed
+[2022.09.22-11.24.10:051][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.09.22-11.24.10:111][210]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Levels/Practice_Level
+[2022.09.22-11.24.10:112][210]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Practice_Level1BCF46574E51A510FE4B93BD61A1A676.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Practice_Level.umap'
+[2022.09.22-11.24.10:123][210]LogFileHelpers: Saving map 'Practice_Level' took 0.079
+[2022.09.22-11.24.10:137][210]AssetCheck: New page: Asset Save: Practice_Level
+[2022.09.22-11.24.10:137][210]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
