@@ -1885,3 +1885,63 @@ Recommended: 516.25
 [2022.09.22-10.11.52:787][581]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Practice_Level.Practice_Level
 [2022.09.22-10.11.52:788][581]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Blockout/Models/Slime.Slime
 [2022.09.22-10.11.52:788][581]LogContentValidation: Display: Validating Texture2D /Game/TerraHyphea/Blockout/Materials/CraftinStone_Albedo.CraftinStone_Albedo
+[2022.09.22-10.14.43:283][685]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.22-10.14.43:292][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.22-10.14.43:292][685]PIE: New page: PIE session: Practice_Level (22 sep. 2022 14:14:43)
+[2022.09.22-10.14.43:292][685]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.22-10.14.43:306][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013635s)
+[2022.09.22-10.14.43:306][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Practice_Level.Practice_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level (0.013739s)
+[2022.09.22-10.14.43:306][685]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.22-10.14.43:306][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.22-10.14.43:306][685]LogAIModule: Creating AISystem for world Practice_Level
+[2022.09.22-10.14.43:307][685]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2022.09.22-10.14.43:315][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.22-10.14.43:316][685]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.22-10.14.43:316][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.22-10.14.43:316][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.22-10.14.43:317][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.22-10.14.43:317][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.22-10.14.43:317][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.22-10.14.43:319][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.22-10.14.43:341][685]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (UC02)
+[2022.09.22-10.14.43:342][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.22-10.14.43:342][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.22-10.14.43:342][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.22-10.14.43:343][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.09.22-10.14.43:343][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.09.22-10.14.43:344][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.09.22-10.14.43:344][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.09.22-10.14.43:344][685]LogInit: FAudioDevice initialized.
+[2022.09.22-10.14.43:344][685]LogAudio: Display: Audio Device (ID: 12) registered with world 'Practice_Level'.
+[2022.09.22-10.14.43:360][685]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.09.22-10.14.43:366][685]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level.Practice_Level up for play (max tick rate 60) at 2022.09.22-12.14.43
+[2022.09.22-10.14.43:366][685]LogWorld: Bringing up level for play took: 0.006255
+[2022.09.22-10.14.43:368][685]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.09.22-10.14.43:371][685]PIE: Server logged in
+[2022.09.22-10.14.43:371][685]PIE: Play in editor total start time 0,079 seconds.
+[2022.09.22-11.09.59:513][533]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.597 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.22-11.21.05:242][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-11.21.05:242][647]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Practice_Level
+[2022.09.22-11.21.05:242][647]LogWorld: UWorld::CleanupWorld for Practice_Level, bSessionEnded=true, bCleanupResources=true
+[2022.09.22-11.21.05:245][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-11.21.05:261][647]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.22-11.21.05:263][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.22-11.21.05:270][647]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.22-11.21.05:271][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.09.22-11.21.05:274][647]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.09.22-11.21.05:282][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.09.22-11.21.05:318][648]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.09.22-11.21.08:214][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.22-11.21.10:158][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.09.22-11.21.10:814][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.22-11.21.11:135][977]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.09.22-11.21.12:741][ 71]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Blockout/Materials/Slime
+[2022.09.22-11.21.12:741][ 71]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Slime4304CE4944A89ECB0841128A295AB7AD.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Materials/Slime.uasset'
+[2022.09.22-11.21.12:756][ 71]AssetCheck: New page: Asset Save: Slime
+[2022.09.22-11.21.12:756][ 71]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Blockout/Materials/Slime.Slime
