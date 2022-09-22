@@ -1945,3 +1945,4 @@ Recommended: 516.25
 [2022.09.22-11.21.12:741][ 71]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Slime4304CE4944A89ECB0841128A295AB7AD.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Blockout/Materials/Slime.uasset'
 [2022.09.22-11.21.12:756][ 71]AssetCheck: New page: Asset Save: Slime
 [2022.09.22-11.21.12:756][ 71]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Blockout/Materials/Slime.Slime
+[2022.09.22-11.22.32:938][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
