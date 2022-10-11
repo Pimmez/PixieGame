@@ -13,7 +13,6 @@ class FMODSTUDIO_API UFMODBank : public UFMODAsset
 {
     GENERATED_UCLASS_BODY()
 
-private:
     /** Get tags to show in content view */
     virtual void GetAssetRegistryTags(TArray<FAssetRegistryTag> &OutTags) const override;
 

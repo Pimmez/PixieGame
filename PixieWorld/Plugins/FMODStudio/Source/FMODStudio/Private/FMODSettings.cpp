@@ -59,7 +59,6 @@ UFMODSettings::UFMODSettings(const FObjectInitializer &ObjectInitializer)
     ReloadBanksDelay = 5;
     bMatchHardwareSampleRate = true;
     bLockAllBuses = false;
-    bEnableAPIErrorLogging = false;
     bEnableMemoryTracking = false;
 }
 
