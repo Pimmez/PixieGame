@@ -11,7 +11,6 @@ UCLASS(AutoExpandCategories = Audio, ClassGroup = Sounds, hidecategories(Collisi
 class FMODSTUDIO_API AFMODAmbientSound : public AActor
 {
     GENERATED_UCLASS_BODY()
-
 public:
     /** The Audio component for this actor */
     UPROPERTY(Category = Sound, VisibleAnywhere, BlueprintReadOnly, meta = (ExposeFunctionCategories = "Sound"))
@@ -22,5 +21,5 @@ public:
     virtual void CheckForErrors() override;
     virtual bool GetReferencedContentObjects(TArray<UObject *> &Objects) const override;
 #endif
-// End AActor interface.
+    // End AActor interface.
 };

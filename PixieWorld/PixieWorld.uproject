@@ -32,7 +32,7 @@
 		},
 		{
 			"Name": "FMODStudio",
-			"Enabled": false
+			"Enabled": true
 		}
 	]
 }
