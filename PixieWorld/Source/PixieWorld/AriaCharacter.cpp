@@ -34,15 +34,53 @@ void AAriaCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputCompo
 	PlayerInputComponent->BindAxis(TEXT("Move Right / Left"), this, &AAriaCharacter::MoveSideways);
 	PlayerInputComponent->BindAxis(TEXT("Turn Right / Left Mouse"), this, &AAriaCharacter::AddControllerYawInput);
 	PlayerInputComponent->BindAxis(TEXT("Look Up / Down Mouse"), this, &APawn::AddControllerPitchInput);
-	PlayerInputComponent->BindAction(TEXT("Jump"), EInputEvent::IE_Pressed, this,  &ACharacter::Jump);
+	PlayerInputComponent->BindAction(TEXT("Jump"), EInputEvent::IE_Pressed, this, &ACharacter::Jump);
+	//PlayerInputComponent->BindAction(TEXT("Crouch"), EInputEvent::IE_Pressed, this, &AAriaCharacter::ToggleCrouch);
 }
 
 void AAriaCharacter::MoveForward(float _AxisValue)
 {
-	AddMovementInput(GetActorForwardVector() * _AxisValue);
+	if ((Controller != nullptr) && (_AxisValue != 0.0f))
+	{
+		// find out which way is forward
+		const FRotator Rotation = Controller->GetControlRotation();
+		const FRotator YawRotation(0, Rotation.Yaw, 0);
+
+		// get forward vector
+		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::X);
+		AddMovementInput(Direction, _AxisValue);
+	}
+
+	//AddMovementInput(GetActorForwardVector() * _AxisValue);
 }
 
 void AAriaCharacter::MoveSideways(float _AxisValue)
 {
-	AddMovementInput(GetActorRightVector() * _AxisValue);
+	if ((Controller != nullptr) && (_AxisValue != 0.0f))
+	{
+		// find out which way is right
+		const FRotator Rotation = Controller->GetControlRotation();
+		const FRotator YawRotation(0, Rotation.Yaw, 0);
+
+		// get right vector 
+		const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxis(EAxis::Y);
+		// add movement in that direction
+		AddMovementInput(Direction, _AxisValue);
+	}
+
+	//AddMovementInput(GetActorRightVector() * _AxisValue);
 }
+
+/*
+void AAriaCharacter::ToggleCrouch()
+{
+	if (Crouch)
+	{
+		UnCrouch();
+	}
+	else
+	{
+		Crouch();
+	}
+}
+*/

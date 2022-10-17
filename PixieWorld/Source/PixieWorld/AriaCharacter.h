@@ -29,4 +29,5 @@ public:
 private:
 	void MoveForward(float _AxisValue);
 	void MoveSideways(float _AxisValue);
+	void ToggleCrouch();
 };
