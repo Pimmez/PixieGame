@@ -1773,3 +1773,23 @@ Recommended: 516.25
 [2022.10.24-12.45.26:219][653]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
 [2022.10.24-12.45.26:219][653]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.10.24-12.45.26:255][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.10.24-12.54.19:674][863]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.10.24-12.54.19:683][863]LogContentBrowser: Creating deferred item: NewFolder
+[2022.10.24-12.54.19:691][864]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.10.24-12.54.21:302][961]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2022.10.24-12.54.21:303][961]LogContentBrowser: End creating deferred item NewFolder
+[2022.10.24-12.55.17:854][259]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\iriss\Desktop\Project Vrij\Concept Art\UI\Interactable_input.png)
+[2022.10.24-12.55.17:868][259]LogTexture: Display: Building textures: /Game/TerraHyphea/Art/UI/Interactable_input.Interactable_input (TFO_AutoDXT, 500X500 X1X1) (Required Memory Estimate: 4.768372 MB), EncodeSpeed: Fast
+[2022.10.24-12.55.19:828][376]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TerraHyphea/Art/UI/Interactable_input.Interactable_input
+[2022.10.24-12.55.19:889][376]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.24-12.55.20:030][376]LogViewport: Scene viewport resized to 1419x853, mode Windowed.
+[2022.10.24-12.55.23:350][567]LogViewport: Scene viewport resized to 1415x882, mode Windowed.
+[2022.10.24-12.55.23:418][569]LogViewport: Scene viewport resized to 573x282, mode Windowed.
+[2022.10.24-12.55.23:737][587]LogViewport: Scene viewport resized to 1419x853, mode Windowed.
+[2022.10.24-12.55.23:848][592]LogSlate: Window 'Interactable_input' being destroyed
+[2022.10.24-12.57.12:297][813]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.24-12.57.13:233][813]LogSlate: Window 'Save Content' being destroyed
+[2022.10.24-12.57.13:291][813]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Art/UI/Interactable_input
+[2022.10.24-12.57.13:291][813]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Interactable_input4FC3571C414F397D7F33119DCF82A15C.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Art/UI/Interactable_input.uasset'
+[2022.10.24-12.57.13:306][813]AssetCheck: New page: Asset Save: Interactable_input
+[2022.10.24-12.57.13:306][813]LogContentValidation: Display: Validating Texture2D /Game/TerraHyphea/Art/UI/Interactable_input.Interactable_input
