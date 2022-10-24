@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\intermediate\\build\\win64\\unrealeditor\\inc\\pixieworld\\ariacharacter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\intermediate\\build\\win64\\pixieworldeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\githubfolder\\pixiegame\\pixieworld\\intermediate\\build\\win64\\unrealeditor\\development\\pixieworld\\definitions.pixieworld.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\source\\pixieworld\\ariacharacter.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\intermediate\\build\\win64\\unrealeditor\\inc\\pixieworld\\ariacharacter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

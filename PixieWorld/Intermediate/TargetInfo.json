@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PixieWorld",
+			"Path": "C:\\GithubFolder\\PixieGame\\PixieWorld\\Source\\PixieWorld.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PixieWorldEditor",
+			"Path": "C:\\GithubFolder\\PixieGame\\PixieWorld\\Source\\PixieWorldEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
