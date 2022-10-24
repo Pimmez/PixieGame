@@ -1793,3 +1793,633 @@ Recommended: 516.25
 [2022.10.24-12.57.13:291][813]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Interactable_input4FC3571C414F397D7F33119DCF82A15C.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Art/UI/Interactable_input.uasset'
 [2022.10.24-12.57.13:306][813]AssetCheck: New page: Asset Save: Interactable_input
 [2022.10.24-12.57.13:306][813]LogContentValidation: Display: Validating Texture2D /Game/TerraHyphea/Art/UI/Interactable_input.Interactable_input
+[2022.10.24-13.08.50:057][152]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.915 and deleted 73 file(s) with total size 6 MiB.
+[2022.10.24-13.09.29:606][270]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Oortelefoon van hoofdtelefoon (HyperX Virtual Surround Sound), InstanceID=1
+[2022.10.24-13.09.29:606][270]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=19972
+[2022.10.24-13.09.29:945][270]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{29a7f942-2521-4c60-a0e0-58c2b3393367}, Name=Oortelefoon van hoofdtelefoon (HyperX Virtual Surround Sound)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=18.61
+[2022.10.24-13.09.29:945][270]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.24-13.09.29:947][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.24-13.11.21:821][452]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/TerraHyphea/Art/LandscapMaterials/Ground_Brown_Basecolor.Ground_Brown_Basecolor
+[2022.10.24-13.11.21:821][452]LogTextureEditor: Warning: No compression block size found in settings - using 256KB
+[2022.10.24-13.11.21:871][452]LogViewport: Scene viewport resized to 1419x853, mode Windowed.
+[2022.10.24-13.11.39:411][479]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.24-13.11.39:411][479]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.24-13.15.43:618][278]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\iriss\Desktop\Project Vrij\Paddenstoelgrond.fbx)
+[2022.10.24-13.15.43:648][278]LogFbx: Loading FBX Scene from C:\Users\iriss\Desktop\Project Vrij\Paddenstoelgrond.fbx
+[2022.10.24-13.15.43:657][278]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.24-13.15.44:918][278]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.24-13.15.44:982][278]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: E0297C9951B32C60F98896FD22ADF81D6A9B7AD6), compiling. 
+[2022.10.24-13.15.45:023][278]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: 74EDFAF6A6F40F047BE5A243E824F5F8E6092CA4), compiling. 
+[2022.10.24-13.15.45:027][278]LogFbx: Display: Triangulating static mesh Sphere
+[2022.10.24-13.15.45:040][278]LogStaticMesh: Display: Building static mesh Paddenstoelgrond...
+[2022.10.24-13.15.45:055][278]LogStaticMesh: Built static mesh [0.02s] /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond
+[2022.10.24-13.15.45:091][278]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: Total job queries 383, among them cache hits 193 (50.39%)
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: Tracking 168 distinct input hashes that result in 102 distinct outputs (60.71%)
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: RAM used: 1.20 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.15%
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: Shaders Compiled: 143
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: Jobs assigned 175, completed 168 (96.00%)
+[2022.10.24-13.15.46:690][322]LogShaderCompilers: Display: Average time worker was idle: 903.38 s
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Time job spent in pending queue: average 0.80 s, longest 11.79 s
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Job execution time: average 5.00 s, max 16.62 s
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Job life time (pending + execution): average 5.83 s, max 16.66
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 46.12 s
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Jobs were issued in 130 batches (only local compilation was used), average 1.35 jobs/batch
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Average processing rate: 3.64 jobs/sec
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Effective parallelization: 3.73 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    3 times, average 2.55 sec, max 3.13 sec, min 1.64 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 2.35 sec, max 2.72 sec, min 1.80 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    3 times, average 2.33 sec, max 2.90 sec, min 1.37 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy (compiled    3 times, average 2.23 sec, max 2.84 sec, min 1.29 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    3 times, average 2.23 sec, max 2.86 sec, min 1.38 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:                                               FNiagaraShader - 6.36% of total time (compiled   60 times, average 0.18 sec, max 0.49 sec, min 0.06 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.20% of total time (compiled    7 times, average 1.52 sec, max 3.16 sec, min 0.80 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy - 4.45% of total time (compiled    3 times, average 2.55 sec, max 3.13 sec, min 1.64 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.27% of total time (compiled    7 times, average 1.05 sec, max 1.31 sec, min 0.66 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.18% of total time (compiled    6 times, average 1.20 sec, max 2.18 sec, min 0.87 sec)
+[2022.10.24-13.15.46:691][322]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.15.48:855][422]LogSlate: Window 'Message Log' being destroyed
+[2022.10.24-13.15.48:861][422]LogSlate: Window 'Message Log' being destroyed
+[2022.10.24-13.15.51:123][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.10.24-13.15.52:388][550]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-13.15.52:412][550]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TerraHyphea/Demo_Level/Models/Material_001.Material_001
+	Asset Type: Material
+[2022.10.24-13.15.52:810][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.10.24-13.15.52:822][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.10.24-13.15.52:833][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.24-13.15.54:267][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.24-13.15.55:266][633]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-13.15.55:288][633]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/TerraHyphea/Demo_Level/Models/Material_002.Material_002
+	Asset Type: Material
+[2022.10.24-13.15.55:490][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.24-13.15.55:501][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.10.24-13.15.55:512][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.10.24-13.16.19:071][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.10.24-13.16.20:545][993]LogSlate: Window 'Save Content' being destroyed
+[2022.10.24-13.16.20:609][993]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond
+[2022.10.24-13.16.20:609][993]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Paddenstoelgrond35EC0F6F431F8BDF62865CAFA962F75D.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.uasset'
+[2022.10.24-13.16.21:174][993]LogLinker: Warning: [AssetLog] C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Content\TerraHyphea\Demo_Level\Blueprints\B_Stone.uasset: Failed to load '/Game/ThirdPartyAssets/StylizedProvencal/Textures/T_Flora_Atlas_02_B': Can't find file.
+[2022.10.24-13.16.21:175][993]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPartyAssets/StylizedProvencal/Textures/T_Flora_Atlas_02_B'
+[2022.10.24-13.16.21:180][993]LogLinker: Warning: [AssetLog] C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Content\TerraHyphea\Demo_Level\Practice_Level_sharedassets\DemoTest_Level.umap: Failed to load '/Game/ThirdPartyAssets/StylizedProvencal/Meshes/SMF_Forest_Bush_4': Can't find file.
+[2022.10.24-13.16.21:180][993]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPartyAssets/StylizedProvencal/Meshes/SMF_Forest_Bush_4'
+[2022.10.24-13.16.21:181][993]LogLinker: Warning: [AssetLog] C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Content\TerraHyphea\Demo_Level\Practice_Level_sharedassets\DemoTest_Level.umap: Failed to load '/Game/ThirdPartyAssets/StylizedProvencal/Meshes/SMF_Forest_Rock_1': Can't find file.
+[2022.10.24-13.16.21:181][993]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPartyAssets/StylizedProvencal/Meshes/SMF_Forest_Rock_1'
+[2022.10.24-13.16.21:181][993]LogLinker: Warning: [AssetLog] C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Content\TerraHyphea\Demo_Level\Practice_Level_sharedassets\DemoTest_Level.umap: Failed to load '/Game/ThirdPartyAssets/StylizedProvencal/Meshes/SMF_Grass_Small_02_a': Can't find file.
+[2022.10.24-13.16.21:181][993]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/ThirdPartyAssets/StylizedProvencal/Meshes/SMF_Grass_Small_02_a'
+[2022.10.24-13.16.22:079][993]MapCheck: Warning: InstancedFoliageActor_1 Foliage instances for a missing static mesh have been removed. 
+[2022.10.24-13.16.22:161][993]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level
+[2022.10.24-13.16.22:162][993]LightingResults: New page: Lighting Build
+[2022.10.24-13.16.22:163][993]LoadErrors: New page: Loading map: DemoTest_Level.umap
+[2022.10.24-13.16.22:174][993]LogWorld: UWorld::CleanupWorld for Iris_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.16.22:176][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.16.22:177][993]LogNiagaraEditor: OnWorldDestroyed - matched up
+[2022.10.24-13.16.22:177][993]MapCheck: New page: Map Check
+[2022.10.24-13.16.22:177][993]LightingResults: New page: Lighting Build
+[2022.10.24-13.16.22:195][993]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.24-13.16.22:214][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.10.24-13.16.22:223][993]LogWorld: UWorld::CleanupWorld for DemoTest_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.16.22:224][993]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.16.22:250][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.10.24-13.16.22:263][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.10.24-13.16.22:301][993]MapCheck: Warning: InstancedFoliageActor_1 Foliage instances for a missing static mesh have been removed. 
+[2022.10.24-13.16.22:318][993]LogAudio: Display: Audio Device (ID: 1) registered with world 'DemoTest_Level'.
+[2022.10.24-13.16.22:319][993]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-13.16.22:320][993]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.16.22:324][993]LogAIModule: Creating AISystem for world DemoTest_Level
+[2022.10.24-13.16.22:536][993]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.24-13.16.22:555][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.10.24-13.16.22:569][993]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.24-13.16.22:569][993]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 0,394ms to complete.
+[2022.10.24-13.16.22:612][993]LogFileHelpers: Loading map 'DemoTest_Level' took 0.451
+[2022.10.24-13.16.22:669][993]AssetCheck: New page: Asset Save: Paddenstoelgrond
+[2022.10.24-13.16.22:669][993]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond
+[2022.10.24-13.16.25:465][140]LogSlate: Window 'Message Log' being destroyed
+[2022.10.24-13.16.25:475][140]LogSlate: Window 'Message Log' being destroyed
+[2022.10.24-13.16.41:009][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond
+[2022.10.24-13.16.41:010][ 31]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond
+[2022.10.24-13.16.41:011][ 31]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond as actor: StaticMeshActor /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level:PersistentLevel.StaticMeshActor_0
+[2022.10.24-13.16.42:252][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond
+[2022.10.24-13.16.42:252][105]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond
+[2022.10.24-13.16.42:253][105]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Demo_Level/Models/Paddenstoelgrond.Paddenstoelgrond as actor: StaticMeshActor /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level:PersistentLevel.StaticMeshActor_1
+[2022.10.24-13.17.06:247][490]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.10.24-13.17.06:254][490]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.10.24-13.17.06:264][491]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.10.24-13.17.09:441][682]LogContentBrowser: Attempting asset rename: NewMaterial -> Glow
+[2022.10.24-13.17.09:443][682]LogContentBrowser: End creating deferred item NewMaterial
+[2022.10.24-13.17.12:596][859]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.17.12:605][859]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 49CE6107AA84CD2570AB4875D6C47DC5D21C9C00), compiling. 
+[2022.10.24-13.17.12:651][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.17.12:754][859]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 68E938F9A6B672FF09B8A2B9591505C2A9FD1C3A), compiling. 
+[2022.10.24-13.17.12:761][859]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 29C0858993F1BEE81A28BECC7E2ABB1A0CBE9A82), compiling. 
+[2022.10.24-13.17.12:787][859]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.17.12:787][859]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.17.12:787][859]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.17.12:790][859]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2022.10.24-13.17.14:444][954]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.17.14:444][954]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.17.14:444][954]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.17.22:348][285]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.17.22:348][285]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.17.26:307][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.24-13.17.27:684][499]LogSlate: Window 'Delete Assets' being destroyed
+[2022.10.24-13.17.27:710][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.24-13.17.27:722][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2022.10.24-13.17.27:735][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.10.24-13.17.29:156][576]LogMaterial: Display: Missing cached shadermap for Gray_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 2B3BE766B46ED172EFC3568743CC49C6512B7897), compiling. 
+[2022.10.24-13.17.31:467][641]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.24-13.17.31:467][641]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.10.24-13.17.34:068][718]LogContentBrowser: Attempting asset rename: Gray_2 -> Glow
+[2022.10.24-13.17.35:669][718]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Materials/Glow
+[2022.10.24-13.17.35:669][718]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Glow945AB7C44247CDF2F6283D8DA87EDC8F.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Materials/Glow.uasset'
+[2022.10.24-13.17.35:698][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.10.24-13.17.35:711][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.10.24-13.17.35:724][718]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.10.24-13.17.35:728][718]AssetCheck: New page: Asset Save: Glow
+[2022.10.24-13.17.35:728][718]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.17.36:676][766]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.17.36:679][766]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D65FD170978A48F80581B1E9B536AD4F74E2E17A), compiling. 
+[2022.10.24-13.17.36:707][766]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.17.36:785][766]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 58759BAF6DA20BD517BE9F8C822BEBD122C5469D), compiling. 
+[2022.10.24-13.17.36:792][766]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 86D9F6646044AA3F1390D3437986F2C9814FE764), compiling. 
+[2022.10.24-13.17.36:795][766]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 692D7AE3E9C5416764BC2DC331A6CE94ADD7D959), compiling. 
+[2022.10.24-13.17.36:818][766]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.17.36:818][766]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.17.36:818][766]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.17.36:821][766]LogViewport: Scene viewport resized to 374x426, mode Windowed.
+[2022.10.24-13.17.38:532][857]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.17.38:532][857]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.17.38:532][857]MaterialEditorStats: Shader Count: 3
+[2022.10.24-13.17.43:563][151]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 594DDA9505B386BA1A5993D077E88DA55DFE24DA), compiling. 
+[2022.10.24-13.17.43:566][151]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 99E3DC3A82C345DFC49562DFAC4BE781B9B6C3E6), compiling. 
+[2022.10.24-13.17.43:569][151]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 23B961B4A9C2C0EA56C6D654C59B9453CB374751), compiling. 
+[2022.10.24-13.17.43:574][151]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5A06EF311BF07E0B22A1D553724C4DF959774042), compiling. 
+[2022.10.24-13.17.43:576][151]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.24-13.17.43:589][151]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.17.43:589][151]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.17.43:589][151]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.17.45:294][248]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.17.45:294][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.17.45:294][248]MaterialEditorStats: Shader Count: 3
+[2022.10.24-13.18.57:424][127]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1CBF74A72EDDDEB8CCD7633A995AAD826AC20F05), compiling. 
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Total job queries 458, among them cache hits 201 (43.89%)
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Tracking 212 distinct input hashes that result in 122 distinct outputs (57.55%)
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: RAM used: 1.28 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Shaders Compiled: 181
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Jobs assigned 212, completed 212 (100.00%)
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Average time worker was idle: 765.27 s
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Time job spent in pending queue: average 0.66 s, longest 11.79 s
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Job execution time: average 4.66 s, max 16.62 s
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Job life time (pending + execution): average 5.32 s, max 16.66
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.78 s
+[2022.10.24-13.18.57:441][128]LogShaderCompilers: Display: Jobs were issued in 153 batches (only local compilation was used), average 1.39 jobs/batch
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display: Average processing rate: 3.61 jobs/sec
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display: Effective parallelization: 4.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    1 times, average 3.71 sec, max 3.71 sec, min 3.71 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    1 times, average 3.65 sec, max 3.65 sec, min 3.65 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    3 times, average 2.55 sec, max 3.13 sec, min 1.64 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 2.35 sec, max 2.72 sec, min 1.80 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    3 times, average 2.33 sec, max 2.90 sec, min 1.37 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.76% of total time (compiled   15 times, average 1.56 sec, max 3.16 sec, min 0.80 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.26% of total time (compiled   15 times, average 1.32 sec, max 1.93 sec, min 0.66 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.86% of total time (compiled   12 times, average 1.37 sec, max 2.18 sec, min 0.87 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                                               FNiagaraShader - 4.57% of total time (compiled   60 times, average 0.18 sec, max 0.49 sec, min 0.06 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.47% of total time (compiled    4 times, average 2.08 sec, max 2.84 sec, min 1.29 sec)
+[2022.10.24-13.18.57:442][128]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.19.05:659][611]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 704E849E7D6E3BE7AAED935CE9F64F6043D0C020), compiling. 
+[2022.10.24-13.19.05:663][611]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.05:663][611]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.05:663][611]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.05:696][613]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.05:696][613]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.05:696][613]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.10:471][895]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 6E87B7910A6338785F4F989390DF901FFB20EDAA), compiling. 
+[2022.10.24-13.19.10:477][895]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.10:477][895]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.10:477][895]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.11:784][974]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.11:784][974]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.11:784][974]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.13:327][ 64]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1D916211B1B00A2B24B202D344C405F2B8784DA5), compiling. 
+[2022.10.24-13.19.13:333][ 64]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: CADF2DE1717A3533146D721AA24A7E4F04A2A605), compiling. 
+[2022.10.24-13.19.13:340][ 64]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.13:340][ 64]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.13:340][ 64]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.14:480][133]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.14:481][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.14:481][133]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.17:990][341]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 274D2FB0C16A80D34A832DC018DF98E05D2EC33F), compiling. 
+[2022.10.24-13.19.17:995][341]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 546E7E04076BAF70BA54ACE44CB00354EBCF387C), compiling. 
+[2022.10.24-13.19.17:998][341]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.17:998][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.17:998][341]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.19:168][410]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.19:168][410]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.19:168][410]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.21:274][533]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: EAD19155AE4769B1BC13388D1AE9822C66B51942), compiling. 
+[2022.10.24-13.19.21:279][533]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 68CEEA07EC984A8A3138DDA86AEAD15FEC90A7FC), compiling. 
+[2022.10.24-13.19.21:283][533]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.21:283][533]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.21:283][533]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.22:403][601]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.22:403][601]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.22:403][601]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.24:400][718]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 93B48633153704D6A06AF16916507AA080D90995), compiling. 
+[2022.10.24-13.19.24:405][718]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 6DEA1D86493DBBD4DE91081918E0E6417BC8B475), compiling. 
+[2022.10.24-13.19.24:408][718]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.24:408][718]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.24:408][718]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.25:546][787]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.25:546][787]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.25:546][787]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.28:071][936]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1C7BEF281CD3340B143688C41114BFF4A9D565F6), compiling. 
+[2022.10.24-13.19.28:076][936]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 53CDB2E30EAEE3FFFCA1E3EA51EBA84695B85E86), compiling. 
+[2022.10.24-13.19.28:079][936]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.28:079][936]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.28:079][936]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.29:034][994]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.29:034][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.29:034][994]MaterialEditorStats: Shader Count: 2
+[2022.10.24-13.19.33:660][268]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 748005DC3DDED9C67A6BDEC1803C879FBA287200), compiling. 
+[2022.10.24-13.19.33:665][268]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: DCDA15003C758D6ACB710023AA6679A013AC872C), compiling. 
+[2022.10.24-13.19.33:668][268]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.19.33:668][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.33:668][268]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.19.34:722][332]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.19.34:722][332]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.34:722][332]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.19.39:350][597]LogMaterialEditor: Saving and Compiling material Glow
+[2022.10.24-13.19.42:622][597]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 797ED405FEA4D47BCF15352F0C2ABD5334242975), compiling. 
+[2022.10.24-13.19.42:643][597]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 4DC14663F3A54E183313974BF36201137A17922A), compiling. 
+[2022.10.24-13.19.42:703][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.24-13.19.43:560][597]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.10.24-13.19.45:691][597]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.24-13.19.47:283][597]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.005920s (1.623405s overbudget)
+[2022.10.24-13.19.47:309][597]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Materials/Glow
+[2022.10.24-13.19.47:309][597]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Glow2E732C2D491A634F182D35AE1D0ED3BF.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Materials/Glow.uasset'
+[2022.10.24-13.19.47:322][597]AssetCheck: New page: Asset Save: Glow
+[2022.10.24-13.19.47:322][597]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.19.47:324][597]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.10.24-13.19.47:324][597]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.10.24-13.19.47:324][597]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-13.19.47:324][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.19.47:324][597]MaterialEditorStats: Shader Count: 21
+[2022.10.24-13.21.05:491][213]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2022.10.24-13.21.05:492][213]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PostProcessVolume
+[2022.10.24-13.21.05:493][213]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level:PersistentLevel.PostProcessVolume_1
+[2022.10.24-13.21.05:496][213]LogActorFactory: Actor Factory spawned Class /Script/Engine.PostProcessVolume as actor: PostProcessVolume /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level:PersistentLevel.PostProcessVolume_1
+[2022.10.24-13.22.28:227][ 56]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.24-13.22.28:245][ 56]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.10.24-13.22.28:247][ 56]LogPlayLevel: [PlayLevel] Compiling DemoTest_Level before play...
+[2022.10.24-13.22.28:341][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.24-13.22.28:441][ 56]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level
+[2022.10.24-13.22.28:442][ 56]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/DemoTest_Level1E14AB4C40D5BD574CD8688D432B65AF.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.umap'
+[2022.10.24-13.22.28:458][ 56]LogFileHelpers: Saving map 'DemoTest_Level' took 0.133
+[2022.10.24-13.22.28:481][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.10.24-13.22.28:482][ 56]LogPlayLevel: PlayLevel: Blueprint regeneration took 236 ms (1 blueprints)
+[2022.10.24-13.22.28:482][ 56]PIE: New page: PIE session: DemoTest_Level (24 okt. 2022 17:22:28)
+[2022.10.24-13.22.28:536][ 56]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level
+[2022.10.24-13.22.28:569][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033456s)
+[2022.10.24-13.22.28:569][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level to /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level.DemoTest_Level (0.033736s)
+[2022.10.24-13.22.28:569][ 56]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-13.22.28:569][ 56]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.22.28:570][ 56]LogAIModule: Creating AISystem for world DemoTest_Level
+[2022.10.24-13.22.28:571][ 56]LogPlayLevel: PIE: World Init took: (0.002100s)
+[2022.10.24-13.22.28:582][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.10.24-13.22.28:584][ 56]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.10.24-13.22.28:585][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-13.22.28:585][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-13.22.28:585][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-13.22.28:586][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-13.22.28:586][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-13.22.28:586][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-13.22.28:586][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-13.22.28:586][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-13.22.28:588][ 56]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-13.22.28:588][ 56]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-13.22.28:588][ 56]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-13.22.28:591][ 56]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-13.22.28:628][ 56]LogAudioMixer: Display: Using Audio Hardware Device Oortelefoon van hoofdtelefoon (HyperX Virtual Surround Sound)
+[2022.10.24-13.22.28:632][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-13.22.28:632][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-13.22.28:632][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-13.22.28:636][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.10.24-13.22.28:636][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2022.10.24-13.22.28:637][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.10.24-13.22.28:637][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.10.24-13.22.28:637][ 56]LogInit: FAudioDevice initialized.
+[2022.10.24-13.22.28:637][ 56]LogAudio: Display: Audio Device (ID: 5) registered with world 'DemoTest_Level'.
+[2022.10.24-13.22.28:661][ 56]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.24-13.22.28:670][ 56]LogWorld: Bringing World /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level.DemoTest_Level up for play (max tick rate 60) at 2022.10.24-15.22.28
+[2022.10.24-13.22.28:688][ 56]LogWorld: Bringing up level for play took: 0.025814
+[2022.10.24-13.22.28:695][ 56]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2022.10.24-13.22.28:780][ 56]PIE: Server logged in
+[2022.10.24-13.22.28:780][ 56]PIE: Play in editor total start time 0,539 seconds.
+[2022.10.24-13.22.28:860][ 57]AssetCheck: New page: Asset Save: DemoTest_Level
+[2022.10.24-13.22.28:860][ 57]LogContentValidation: Display: Validating World /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level
+[2022.10.24-13.22.39:565][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.22.39:565][682]LogWorld: BeginTearingDown for /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level
+[2022.10.24-13.22.39:566][682]LogWorld: UWorld::CleanupWorld for DemoTest_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.22.39:568][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.22.39:585][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.24-13.22.39:589][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.22.39:600][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.22.39:601][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.24-13.22.39:603][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2022.10.24-13.22.39:616][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.10.24-13.22.39:707][683]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.10.24-13.23.53:412][ 45]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.24-13.23.53:423][ 45]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.24-13.23.53:424][ 45]PIE: New page: PIE session: DemoTest_Level (24 okt. 2022 17:23:53)
+[2022.10.24-13.23.53:424][ 45]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level
+[2022.10.24-13.23.53:449][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024948s)
+[2022.10.24-13.23.53:449][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level to /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level.DemoTest_Level (0.025045s)
+[2022.10.24-13.23.53:449][ 45]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-13.23.53:449][ 45]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.23.53:449][ 45]LogAIModule: Creating AISystem for world DemoTest_Level
+[2022.10.24-13.23.53:450][ 45]LogPlayLevel: PIE: World Init took: (0.001201s)
+[2022.10.24-13.23.53:462][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.10.24-13.23.53:464][ 45]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-13.23.53:464][ 45]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-13.23.53:464][ 45]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-13.23.53:465][ 45]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-13.23.53:465][ 45]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-13.23.53:465][ 45]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-13.23.53:467][ 45]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-13.23.53:491][ 45]LogAudioMixer: Display: Using Audio Hardware Device Oortelefoon van hoofdtelefoon (HyperX Virtual Surround Sound)
+[2022.10.24-13.23.53:491][ 45]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-13.23.53:491][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-13.23.53:491][ 45]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-13.23.53:530][ 45]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2022.10.24-13.23.53:531][ 45]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2022.10.24-13.23.53:532][ 45]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2022.10.24-13.23.53:532][ 45]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2022.10.24-13.23.53:532][ 45]LogInit: FAudioDevice initialized.
+[2022.10.24-13.23.53:532][ 45]LogAudio: Display: Audio Device (ID: 6) registered with world 'DemoTest_Level'.
+[2022.10.24-13.23.53:547][ 45]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.24-13.23.53:555][ 45]LogWorld: Bringing World /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level.DemoTest_Level up for play (max tick rate 60) at 2022.10.24-15.23.53
+[2022.10.24-13.23.53:556][ 45]LogWorld: Bringing up level for play took: 0.007971
+[2022.10.24-13.23.53:557][ 45]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2022.10.24-13.23.53:562][ 45]PIE: Server logged in
+[2022.10.24-13.23.53:563][ 45]PIE: Play in editor total start time 0,14 seconds.
+[2022.10.24-13.24.02:451][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.24.02:451][565]LogWorld: BeginTearingDown for /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level
+[2022.10.24-13.24.02:452][565]LogWorld: UWorld::CleanupWorld for DemoTest_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.24.02:453][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.24.02:467][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.24-13.24.02:470][565]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.24.02:481][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.24.02:481][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.24-13.24.02:483][565]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2022.10.24-13.24.02:492][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.24-13.24.02:588][566]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.10.24-13.24.08:923][935]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 246861E60C37CDC4D03E081D1815AC33FA7BED96), compiling. 
+[2022.10.24-13.24.08:931][935]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 07CDB951CAB0D7BA926BFE47EE838BFE1546981E), compiling. 
+[2022.10.24-13.24.08:934][935]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.08:934][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.08:934][935]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Total job queries 533, among them cache hits 231 (43.34%)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Tracking 257 distinct input hashes that result in 145 distinct outputs (56.42%)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: RAM used: 1.36 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.17%
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Shaders Compiled: 183
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Jobs assigned 257, completed 257 (100.00%)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Average time worker was idle: 589.56 s
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Time job spent in pending queue: average 0.60 s, longest 11.79 s
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Job execution time: average 4.04 s, max 16.62 s
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Job life time (pending + execution): average 4.65 s, max 16.66
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 71.00 s
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Jobs were issued in 198 batches (only local compilation was used), average 1.30 jobs/batch
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Average processing rate: 3.62 jobs/sec
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Effective parallelization: 4.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 3.27 sec, max 3.65 sec, min 2.89 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 3.26 sec, max 3.71 sec, min 2.80 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    3 times, average 2.55 sec, max 3.13 sec, min 1.64 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:    TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    3 times, average 2.35 sec, max 2.72 sec, min 1.80 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                   TBasePassVSFSelfShadowedTranslucencyPolicy (compiled    3 times, average 2.33 sec, max 2.90 sec, min 1.37 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.54% of total time (compiled   22 times, average 1.37 sec, max 3.16 sec, min 0.80 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.20% of total time (compiled   22 times, average 1.19 sec, max 1.93 sec, min 0.66 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.03% of total time (compiled   19 times, average 1.20 sec, max 2.18 sec, min 0.87 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                                               FNiagaraShader - 3.84% of total time (compiled   60 times, average 0.18 sec, max 0.49 sec, min 0.06 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display:                TBasePassVSFCachedPointIndirectLightingPolicy - 3.33% of total time (compiled    5 times, average 1.90 sec, max 2.84 sec, min 1.19 sec)
+[2022.10.24-13.24.08:940][936]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.24.08:956][937]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.08:956][937]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.08:956][937]MaterialEditorStats: Shader Count: 2
+[2022.10.24-13.24.11:877][112]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 616AD84F89EA042185B294D4AF5CAA8086BA493A), compiling. 
+[2022.10.24-13.24.11:883][112]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 34BF86C01B07285E0EDB777A9B48D055D7E42458), compiling. 
+[2022.10.24-13.24.11:885][112]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.11:885][112]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.11:885][112]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.13:440][206]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.13:440][206]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.13:440][206]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.24.14:494][269]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 66405E5FC158CB8E82EF0E12A616AA7F701BFCDD), compiling. 
+[2022.10.24-13.24.14:499][269]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: FABC8B891DE2DAF432AE101E8551FC0FBEA18189), compiling. 
+[2022.10.24-13.24.14:502][269]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.14:502][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.14:502][269]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.15:674][340]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.15:674][340]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.15:674][340]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.24.19:686][568]LogMaterialEditor: Saving and Compiling material Glow
+[2022.10.24-13.24.20:232][568]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 50F8871CC607F924FEE0E750A9700DCC4DCA6B79), compiling. 
+[2022.10.24-13.24.20:251][568]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: B38F63BF036D08D04B4013DB7509E974F6DAF114), compiling. 
+[2022.10.24-13.24.20:268][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.10.24-13.24.21:269][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.10.24-13.24.23:398][568]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.24-13.24.25:488][568]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004039s (2.105383s overbudget)
+[2022.10.24-13.24.25:519][568]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Materials/Glow
+[2022.10.24-13.24.25:519][568]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/GlowA945CBF641DA5B10D5E3E8BF8CE95082.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Materials/Glow.uasset'
+[2022.10.24-13.24.25:536][568]AssetCheck: New page: Asset Save: Glow
+[2022.10.24-13.24.25:537][568]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.24.25:538][568]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.10.24-13.24.25:538][568]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.10.24-13.24.25:538][568]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-13.24.25:538][568]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.25:538][568]MaterialEditorStats: Shader Count: 21
+[2022.10.24-13.24.49:559][ 91]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: C7A8F8D1BCD497CA0B5EA6C3458BD33437994E21), compiling. 
+[2022.10.24-13.24.49:564][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.49:565][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.49:565][ 91]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.49:600][ 93]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.49:600][ 93]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.49:600][ 93]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.24.52:243][250]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: DB86682F5A4912559FC6CF9527CBCFA2F8C7A95B), compiling. 
+[2022.10.24-13.24.52:245][250]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F574F701B3A70418D6CD77E47926E585195FA89), compiling. 
+[2022.10.24-13.24.52:250][250]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.52:250][250]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.52:250][250]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.52:272][252]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.52:272][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.52:272][252]MaterialEditorStats: Shader Count: 2
+[2022.10.24-13.24.53:807][342]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D189E91F230FB3E1DAFC385270FB1B35E98B5C4E), compiling. 
+[2022.10.24-13.24.53:812][342]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.53:812][342]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.53:812][342]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.53:841][344]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.53:841][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.53:841][344]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.24.55:236][425]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 924FB6948349DC92B39B6B149B3426F537CC8AA9), compiling. 
+[2022.10.24-13.24.55:246][425]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.24.55:246][425]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.55:246][425]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.24.56:717][514]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.24.56:717][514]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.24.56:717][514]MaterialEditorStats: Shader Count: 3
+[2022.10.24-13.24.58:268][607]LogMaterialEditor: Saving and Compiling material Glow
+[2022.10.24-13.24.58:781][607]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 5B70EAF04BE525EFE1ADA3560F90F4B0F1DDBD2F), compiling. 
+[2022.10.24-13.24.58:798][607]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 91ECECF5B06A6D94B0CA00EEBD75E2ED698E7B38), compiling. 
+[2022.10.24-13.24.58:824][607]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.10.24-13.24.59:828][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.24-13.25.01:957][607]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.24-13.25.03:453][607]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.003958s (1.528880s overbudget)
+[2022.10.24-13.25.03:528][607]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Materials/Glow
+[2022.10.24-13.25.03:529][607]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/GlowFD342DBD4D05F94F7028EA97E3D34A0E.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Materials/Glow.uasset'
+[2022.10.24-13.25.03:548][607]AssetCheck: New page: Asset Save: Glow
+[2022.10.24-13.25.03:548][607]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.25.03:549][607]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.10.24-13.25.03:549][607]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.10.24-13.25.03:549][607]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-13.25.03:549][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.25.03:549][607]MaterialEditorStats: Shader Count: 21
+[2022.10.24-13.25.09:732][940]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 1361E9821C6477D6BA3012602A6A6D1023FD152A), compiling. 
+[2022.10.24-13.25.09:738][940]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 421EB1641A3E1FE846F24B065597F77DD2B364D9), compiling. 
+[2022.10.24-13.25.09:741][940]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.25.09:741][940]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.25.09:741][940]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.25.10:846][  7]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.25.10:846][  7]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.25.10:846][  7]MaterialEditorStats: Shader Count: 3
+[2022.10.24-13.25.13:876][188]LogMaterialEditor: Saving and Compiling material Glow
+[2022.10.24-13.25.14:394][188]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9E3C2F1357DAD42A61D15C2520ECE6B74106CFA3), compiling. 
+[2022.10.24-13.25.14:415][188]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 8FBD1FEE720380A5E81DB95706C61CDE5E2F857E), compiling. 
+[2022.10.24-13.25.14:431][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.24-13.25.15:436][188]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.24-13.25.17:567][188]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.24-13.25.18:899][188]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000025s (1.368711s overbudget)
+[2022.10.24-13.25.18:939][188]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Materials/Glow
+[2022.10.24-13.25.18:939][188]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/Glow0512F94746DCD9FF33C0BBB7F7C58CBF.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Materials/Glow.uasset'
+[2022.10.24-13.25.18:955][188]AssetCheck: New page: Asset Save: Glow
+[2022.10.24-13.25.18:955][188]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.25.18:956][188]MaterialEditorStats: Base pass shader: 125 instructions
+[2022.10.24-13.25.18:956][188]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.10.24-13.25.18:956][188]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-13.25.18:956][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.25.18:956][188]MaterialEditorStats: Shader Count: 21
+[2022.10.24-13.25.40:893][111]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 9E02106C52931DC0900F9C8F4B0226C1C8FAE311), compiling. 
+[2022.10.24-13.25.40:895][111]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4A59D497BB3706A94630198DCC3A137D47B3ACBE), compiling. 
+[2022.10.24-13.25.40:898][111]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 06235884975F1C774850EA898A2B9B3C3183EEEB), compiling. 
+[2022.10.24-13.25.40:904][111]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: E4B066CB535115AFA454A583BC71F3B9BA121114), compiling. 
+[2022.10.24-13.25.40:907][111]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B8F8481C1FD63D6DE0B16919BEDCFA437EFB059), compiling. 
+[2022.10.24-13.25.40:912][111]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 153656E90A9719B19B899ADF826ADB6B697BAF19), compiling. 
+[2022.10.24-13.25.40:916][111]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.24-13.25.40:927][111]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.25.40:927][111]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.25.40:927][111]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.25.42:758][210]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.25.42:758][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.25.42:758][210]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.26.07:298][672]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 441BD60D502E1917FABC67EC5EAEB8B5E53B2BB4), compiling. 
+[2022.10.24-13.26.07:302][672]MaterialEditorStats: Texture samplers: 0/16
+[2022.10.24-13.26.07:302][672]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.26.07:302][672]MaterialEditorStats: Shader Count: 0
+[2022.10.24-13.26.08:626][751]MaterialEditorStats: Texture samplers: 2/16
+[2022.10.24-13.26.08:626][751]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.26.08:626][751]MaterialEditorStats: Shader Count: 4
+[2022.10.24-13.26.09:826][823]LogMaterialEditor: Saving and Compiling material Glow
+[2022.10.24-13.26.10:299][823]LogMaterial: Display: Missing cached shadermap for Preview:Glow in PCD3D_SM5, Default, SM5 (DDC key hash: 45BA9132DA8B08D0E9CC070505E73ECCF0211263), compiling. 
+[2022.10.24-13.26.10:317][823]LogMaterial: Display: Missing cached shadermap for Glow in PCD3D_SM5, Default, SM5 (DDC key hash: D7AE2F2369A4D2257867F040A1169A2FC6BBAB2C), compiling. 
+[2022.10.24-13.26.10:374][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.10.24-13.26.11:335][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.10.24-13.26.13:455][823]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2022.10.24-13.26.14:920][823]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.004847s (1.494178s overbudget)
+[2022.10.24-13.26.14:946][823]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Materials/Glow
+[2022.10.24-13.26.14:947][823]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/GlowB585E1C34063F4301BED11BE35A4D45A.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Materials/Glow.uasset'
+[2022.10.24-13.26.14:956][823]AssetCheck: New page: Asset Save: Glow
+[2022.10.24-13.26.14:956][823]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Demo_Level/Materials/Glow.Glow
+[2022.10.24-13.26.14:957][823]MaterialEditorStats: Base pass shader: 124 instructions
+[2022.10.24-13.26.14:957][823]MaterialEditorStats: Base pass vertex shader: 108 instructions
+[2022.10.24-13.26.14:957][823]MaterialEditorStats: Texture samplers: 3/16
+[2022.10.24-13.26.14:957][823]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.10.24-13.26.14:957][823]MaterialEditorStats: Shader Count: 21
+[2022.10.24-13.26.21:927][231]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.24-13.26.21:937][231]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.24-13.26.21:937][231]PIE: New page: PIE session: DemoTest_Level (24 okt. 2022 17:26:21)
+[2022.10.24-13.26.21:937][231]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level
+[2022.10.24-13.26.21:962][231]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024184s)
+[2022.10.24-13.26.21:962][231]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level to /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level.DemoTest_Level (0.024277s)
+[2022.10.24-13.26.21:962][231]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-13.26.21:962][231]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.26.21:962][231]LogAIModule: Creating AISystem for world DemoTest_Level
+[2022.10.24-13.26.21:963][231]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2022.10.24-13.26.21:975][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.10.24-13.26.21:975][231]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.10.24-13.26.21:975][231]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-13.26.21:975][231]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-13.26.21:975][231]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-13.26.21:975][231]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-13.26.21:976][231]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-13.26.21:976][231]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-13.26.21:976][231]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-13.26.21:976][231]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-13.26.21:976][231]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-13.26.21:976][231]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-13.26.21:976][231]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-13.26.21:978][231]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-13.26.21:999][231]LogAudioMixer: Display: Using Audio Hardware Device Oortelefoon van hoofdtelefoon (HyperX Virtual Surround Sound)
+[2022.10.24-13.26.21:999][231]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-13.26.21:999][231]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-13.26.21:999][231]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-13.26.22:000][231]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2022.10.24-13.26.22:000][231]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2022.10.24-13.26.22:002][231]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2022.10.24-13.26.22:002][231]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2022.10.24-13.26.22:002][231]LogInit: FAudioDevice initialized.
+[2022.10.24-13.26.22:002][231]LogAudio: Display: Audio Device (ID: 7) registered with world 'DemoTest_Level'.
+[2022.10.24-13.26.22:014][231]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.24-13.26.22:022][231]LogWorld: Bringing World /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level.DemoTest_Level up for play (max tick rate 60) at 2022.10.24-15.26.22
+[2022.10.24-13.26.22:022][231]LogWorld: Bringing up level for play took: 0.008255
+[2022.10.24-13.26.22:024][231]LogOnline: OSS: Created online subsystem instance for: :Context_28
+[2022.10.24-13.26.22:028][231]PIE: Server logged in
+[2022.10.24-13.26.22:029][231]PIE: Play in editor total start time 0,092 seconds.
+[2022.10.24-13.26.31:921][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.26.31:921][810]LogWorld: BeginTearingDown for /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/UEDPIE_0_DemoTest_Level
+[2022.10.24-13.26.31:922][810]LogWorld: UWorld::CleanupWorld for DemoTest_Level, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.26.31:923][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.26.31:938][810]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.24-13.26.31:942][810]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.26.31:953][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.26.31:953][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.24-13.26.31:955][810]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2022.10.24-13.26.31:963][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.10.24-13.26.32:035][811]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.10.24-13.26.44:875][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.24-13.26.46:297][558]LogSlate: Window 'Save Content' being destroyed
+[2022.10.24-13.26.46:351][558]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.10.24-13.26.46:437][558]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level
+[2022.10.24-13.26.46:437][558]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Saved/DemoTest_Level72D288CF4D0BABF2D6A958AFDD52930D.tmp' to '../../../../../../Users/iriss/Desktop/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.umap'
+[2022.10.24-13.26.46:454][558]LogFileHelpers: Saving map 'DemoTest_Level' took 0.113
+[2022.10.24-13.26.46:467][558]AssetCheck: New page: Asset Save: DemoTest_Level
+[2022.10.24-13.26.46:467][558]LogContentValidation: Display: Validating World /Game/TerraHyphea/Demo_Level/Practice_Level_sharedassets/DemoTest_Level.DemoTest_Level
