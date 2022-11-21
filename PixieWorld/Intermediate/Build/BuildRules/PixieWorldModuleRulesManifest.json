@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\GithubFolder\\PixieGame\\PixieWorld\\Source\\PixieWorld\\PixieWorld.Build.cs",
+		"C:\\GithubFolder\\PixieGame\\PixieWorld\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"C:\\GithubFolder\\PixieGame\\PixieWorld\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"C:\\GithubFolder\\PixieGame\\PixieWorld\\Source\\PixieWorld.Target.cs",
+		"C:\\GithubFolder\\PixieGame\\PixieWorld\\Source\\PixieWorldEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

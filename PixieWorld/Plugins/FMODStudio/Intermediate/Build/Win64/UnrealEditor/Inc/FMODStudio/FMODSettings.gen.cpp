@@ -874,11 +874,6 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<FFMODProjectLocale>()
 #endif
 		static const UECodeGen_Private::FIntPropertyParams NewProp_ReloadBanksDelay;
 #if WITH_METADATA
-		static const UECodeGen_Private::FMetaDataPairParam NewProp_bEnableAPIErrorLogging_MetaData[];
-#endif
-		static void NewProp_bEnableAPIErrorLogging_SetBit(void* Obj);
-		static const UECodeGen_Private::FBoolPropertyParams NewProp_bEnableAPIErrorLogging;
-#if WITH_METADATA
 		static const UECodeGen_Private::FMetaDataPairParam NewProp_bEnableMemoryTracking_MetaData[];
 #endif
 		static void NewProp_bEnableMemoryTracking_SetBit(void* Obj);
@@ -1161,7 +1156,7 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<FFMODProjectLocale>()
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFMODSettings_Statics::NewProp_MemoryPoolSizes_MetaData[] = {
 		{ "Category", "InitSettings" },
-		{ "Comment", "/**\n     * Use specified memory pool size for platform, units in bytes. Disabled by default.\n     * FMOD may become unstable if the limit is exceeded!\n     */" },
+		{ "Comment", "/** \n     * Use specified memory pool size for platform, units in bytes. Disabled by default.\n     * FMOD may become unstable if the limit is exceeded!\n     */" },
 		{ "ModuleRelativePath", "Classes/FMODSettings.h" },
 		{ "ToolTip", "Use specified memory pool size for platform, units in bytes. Disabled by default.\nFMOD may become unstable if the limit is exceeded!" },
 	};
@@ -1197,20 +1192,6 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<FFMODProjectLocale>()
 #endif
 	const UECodeGen_Private::FIntPropertyParams Z_Construct_UClass_UFMODSettings_Statics::NewProp_ReloadBanksDelay = { "ReloadBanksDelay", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(UFMODSettings, ReloadBanksDelay), METADATA_PARAMS(Z_Construct_UClass_UFMODSettings_Statics::NewProp_ReloadBanksDelay_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFMODSettings_Statics::NewProp_ReloadBanksDelay_MetaData)) };
 #if WITH_METADATA
-	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging_MetaData[] = {
-		{ "Category", "Advanced" },
-		{ "Comment", "/**\n     * Will log internal API errors when enabled.\n     */" },
-		{ "DisplayName", "Enable API Error Logging" },
-		{ "ModuleRelativePath", "Classes/FMODSettings.h" },
-		{ "ToolTip", "Will log internal API errors when enabled." },
-	};
-#endif
-	void Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging_SetBit(void* Obj)
-	{
-		((UFMODSettings*)Obj)->bEnableAPIErrorLogging = 1;
-	}
-	const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging = { "bEnableAPIErrorLogging", nullptr, (EPropertyFlags)0x0010000000004001, UECodeGen_Private::EPropertyGenFlags::Bool | UECodeGen_Private::EPropertyGenFlags::NativeBool, RF_Public|RF_Transient|RF_MarkAsNative, 1, sizeof(bool), sizeof(UFMODSettings), &Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging_SetBit, METADATA_PARAMS(Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging_MetaData)) };
-#if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableMemoryTracking_MetaData[] = {
 		{ "Category", "Advanced" },
 		{ "Comment", "/**\n    * Enable memory tracking.\n    */" },
@@ -1227,7 +1208,7 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<FFMODProjectLocale>()
 #if WITH_METADATA
 	const UECodeGen_Private::FMetaDataPairParam Z_Construct_UClass_UFMODSettings_Statics::NewProp_PluginFiles_MetaData[] = {
 		{ "Category", "Advanced" },
-		{ "Comment", "/**\n     * Extra plugin files to load.\n     * The plugin files should sit alongside the FMOD dynamic libraries in the ThirdParty directory.\n     */" },
+		{ "Comment", "/**\n     * Extra plugin files to load.  \n     * The plugin files should sit alongside the FMOD dynamic libraries in the ThirdParty directory.\n     */" },
 		{ "ModuleRelativePath", "Classes/FMODSettings.h" },
 		{ "ToolTip", "Extra plugin files to load.\nThe plugin files should sit alongside the FMOD dynamic libraries in the ThirdParty directory." },
 	};
@@ -1361,7 +1342,6 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<FFMODProjectLocale>()
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_LiveUpdatePort,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_EditorLiveUpdatePort,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_ReloadBanksDelay,
-		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableAPIErrorLogging,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_bEnableMemoryTracking,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_PluginFiles_Inner,
 		(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_UFMODSettings_Statics::NewProp_PluginFiles,
@@ -1410,29 +1390,29 @@ template<> FMODSTUDIO_API UScriptStruct* StaticStruct<FFMODProjectLocale>()
 		return UFMODSettings::StaticClass();
 	}
 	DEFINE_VTABLE_PTR_HELPER_CTOR(UFMODSettings);
-	struct Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics
+	struct Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics
 	{
 		static const FEnumRegisterCompiledInInfo EnumInfo[];
 		static const FStructRegisterCompiledInInfo ScriptStructInfo[];
 		static const FClassRegisterCompiledInInfo ClassInfo[];
 	};
-	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::EnumInfo[] = {
+	const FEnumRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::EnumInfo[] = {
 		{ EFMODLogging_StaticEnum, TEXT("EFMODLogging"), &Z_Registration_Info_UEnum_EFMODLogging, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1304032146U) },
 		{ EFMODSpeakerMode_StaticEnum, TEXT("EFMODSpeakerMode"), &Z_Registration_Info_UEnum_EFMODSpeakerMode, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 569389764U) },
 		{ EFMODOutput_StaticEnum, TEXT("EFMODOutput"), &Z_Registration_Info_UEnum_EFMODOutput, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2578117423U) },
 		{ EFMODPlatforms_StaticEnum, TEXT("EFMODPlatforms"), &Z_Registration_Info_UEnum_EFMODPlatforms, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 1857492415U) },
 		{ EFMODCodec_StaticEnum, TEXT("EFMODCodec"), &Z_Registration_Info_UEnum_EFMODCodec, CONSTRUCT_RELOAD_VERSION_INFO(FEnumReloadVersionInfo, 2308599081U) },
 	};
-	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ScriptStructInfo[] = {
+	const FStructRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ScriptStructInfo[] = {
 		{ FCustomPoolSizes::StaticStruct, Z_Construct_UScriptStruct_FCustomPoolSizes_Statics::NewStructOps, TEXT("CustomPoolSizes"), &Z_Registration_Info_UScriptStruct_CustomPoolSizes, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FCustomPoolSizes), 382042266U) },
 		{ FFMODPlatformSettings::StaticStruct, Z_Construct_UScriptStruct_FFMODPlatformSettings_Statics::NewStructOps, TEXT("FMODPlatformSettings"), &Z_Registration_Info_UScriptStruct_FMODPlatformSettings, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FFMODPlatformSettings), 2722484191U) },
 		{ FFMODProjectLocale::StaticStruct, Z_Construct_UScriptStruct_FFMODProjectLocale_Statics::NewStructOps, TEXT("FMODProjectLocale"), &Z_Registration_Info_UScriptStruct_FMODProjectLocale, CONSTRUCT_RELOAD_VERSION_INFO(FStructReloadVersionInfo, sizeof(FFMODProjectLocale), 2010489435U) },
 	};
-	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ClassInfo[] = {
-		{ Z_Construct_UClass_UFMODSettings, UFMODSettings::StaticClass, TEXT("UFMODSettings"), &Z_Registration_Info_UClass_UFMODSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODSettings), 3456613405U) },
+	const FClassRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ClassInfo[] = {
+		{ Z_Construct_UClass_UFMODSettings, UFMODSettings::StaticClass, TEXT("UFMODSettings"), &Z_Registration_Info_UClass_UFMODSettings, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UFMODSettings), 69488953U) },
 	};
-	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_196304322(TEXT("/Script/FMODStudio"),
-		Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ClassInfo),
-		Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ScriptStructInfo),
-		Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_HostProject_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::EnumInfo));
+	static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_921793390(TEXT("/Script/FMODStudio"),
+		Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ClassInfo),
+		Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ScriptStructInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::ScriptStructInfo),
+		Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::EnumInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_PixieWorld_Plugins_FMODStudio_Source_FMODStudio_Classes_FMODSettings_h_Statics::EnumInfo));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
