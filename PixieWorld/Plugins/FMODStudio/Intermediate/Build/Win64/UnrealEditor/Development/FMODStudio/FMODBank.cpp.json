@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodbank.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodbank.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodasset.generated.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodbank.generated.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmodstudiomodule.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodsnapshotreverb.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodsnapshotreverb.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\sound\\reverbeffect.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\reverbeffect.generated.h",
+            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodsnapshotreverb.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
