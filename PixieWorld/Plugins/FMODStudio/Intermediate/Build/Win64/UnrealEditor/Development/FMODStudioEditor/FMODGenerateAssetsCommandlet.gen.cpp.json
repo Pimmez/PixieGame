@@ -1,17 +1,17 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodgenerateassetscommandlet.gen.cpp",
+        "Source": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodgenerateassetscommandlet.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "PCH": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
         "Includes": [
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\classes\\fmodgenerateassetscommandlet.h",
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\classes\\fmodgenerateassetscommandlet.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\commandlet.generated.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodgenerateassetscommandlet.generated.h"
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodgenerateassetscommandlet.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
