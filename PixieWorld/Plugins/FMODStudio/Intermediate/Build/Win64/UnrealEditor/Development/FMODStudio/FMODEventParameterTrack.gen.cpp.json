@@ -1,14 +1,14 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodeventparametertrack.gen.cpp",
+        "Source": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodeventparametertrack.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
+        "PCH": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudio\\pch.fmodstudio.h.pch",
         "Includes": [
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\private\\sequencer\\fmodeventparametertrack.h",
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudio\\private\\sequencer\\fmodeventparametertrack.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\moviescenetracks\\public\\sections\\moviesceneparametersection.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\curves\\keyhandle.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\keyhandle.generated.h",
@@ -162,7 +162,7 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\moviescenenameabletrack.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\moviescene\\public\\compilation\\imoviescenetracktemplateproducer.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\moviescene\\imoviescenetracktemplateproducer.generated.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodeventparametertrack.generated.h"
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudio\\fmodeventparametertrack.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
