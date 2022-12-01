@@ -1,12 +1,12 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\source\\pixieworld\\pixieworld.cpp",
+        "Source": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\source\\pixieworld\\pixieworld.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\intermediate\\build\\win64\\pixieworldeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\intermediate\\build\\win64\\pixieworldeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\githubfolder\\pixiegame\\pixieworld\\intermediate\\build\\win64\\unrealeditor\\development\\pixieworld\\definitions.pixieworld.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\source\\pixieworld\\pixieworld.h"
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\intermediate\\build\\win64\\unrealeditor\\development\\pixieworld\\definitions.pixieworld.h",
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\source\\pixieworld\\pixieworld.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

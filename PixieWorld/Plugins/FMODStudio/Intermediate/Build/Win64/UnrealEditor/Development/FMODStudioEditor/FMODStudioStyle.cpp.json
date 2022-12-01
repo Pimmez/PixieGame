@@ -1,11 +1,11 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.cpp",
+        "Source": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "PCH": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
         "Includes": [
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.h",
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\private\\fmodstudiostyle.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\styling\\slatestyle.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\slatecore\\public\\styling\\styledefaults.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\misc\\paths.h",

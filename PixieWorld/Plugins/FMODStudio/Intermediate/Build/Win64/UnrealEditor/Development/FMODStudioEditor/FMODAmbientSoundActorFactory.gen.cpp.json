@@ -1,14 +1,14 @@
 {
     "Version": "1.1",
     "Data": {
-        "Source": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodambientsoundactorfactory.gen.cpp",
+        "Source": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodambientsoundactorfactory.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
+        "PCH": "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\development\\fmodstudioeditor\\pch.fmodstudioeditor.h.pch",
         "Includes": [
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\classes\\fmodambientsoundactorfactory.h",
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\source\\fmodstudioeditor\\classes\\fmodambientsoundactorfactory.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\actorfactories\\actorfactory.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\editorframework\\public\\factories\\assetfactoryinterface.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\assetdata.h",
@@ -403,7 +403,7 @@
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\iterator",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\streambuf",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xiosbase",
-            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\share.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\share.h",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\system_error",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\__msvc_system_error_abi.hpp",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cerrno",
@@ -416,7 +416,7 @@
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\xlocinfo.h",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\cctype",
             "c:\\program files (x86)\\microsoft visual studio\\2019\\community\\vc\\tools\\msvc\\14.29.30133\\include\\clocale",
-            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\locale.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\locale.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaoscore\\public\\chaos\\matrix.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\rotation.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\experimental\\chaos\\public\\chaos\\transform.h",
@@ -451,7 +451,7 @@
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\instancedplacementclientinfo.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\editorframework\\assetfactoryinterface.generated.h",
             "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\actorfactory.generated.h",
-            "c:\\githubfolder\\pixiegame\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodambientsoundactorfactory.generated.h"
+            "c:\\users\\iriss\\desktop\\project vrij\\git\\pixieworld\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealeditor\\inc\\fmodstudioeditor\\fmodambientsoundactorfactory.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
