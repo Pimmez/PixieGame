@@ -977,3 +977,266 @@ Error: CDO Constructor (TP_ThirdPersonGameMode): Failed to find /Game/ThirdPerso
 [2022.12.06-10.45.20:030][311]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.06-10.45.20:030][311]LogContentValidation: Display: Validating World /Game/TerraHyphea/World_Level/Levels/PixieWorld.PixieWorld
 [2022.12.06-10.45.20:030][311]LogContentValidation: Display: Validating Material /Game/TerraHyphea/Art/3D/BigGrass/BigGrass_material.BigGrass_material
+[2022.12.06-11.43.47:983][517]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.698 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-12.43.46:839][253]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.685 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-13.43.47:494][994]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.285 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-14.43.47:443][732]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.131 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-15.43.47:093][472]LogDerivedDataCache: C:/Users/iriss/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.003 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.06-16.34.26:724][946]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.06-16.34.26:732][946]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.06-16.34.26:739][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.06-16.34.28:620][ 60]LogContentBrowser: Attempting asset rename: NewFolder -> Web
+[2022.12.06-16.34.28:620][ 60]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.06-16.34.46:947][264]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout4.fbx)
+[2022.12.06-16.34.46:959][264]LogFbx: Loading FBX Scene from C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout4.fbx
+[2022.12.06-16.34.46:963][264]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.06-16.34.46:964][264]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2022.12.06-16.34.49:818][264]LogSlate: Window 'Message' being destroyed
+[2022.12.06-16.34.49:827][264]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout4.fbx'. Failed to create asset '/Game/TerraHyphea/Art/3D/Web/web_Blockout4'.
+Please see Output Log for details.
+[2022.12.06-16.34.49:828][264]LogAssetTools: Warning: Failed to import 'C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout4.fbx'. Failed to create asset '/Game/TerraHyphea/Art/3D/Web/web_Blockout4'.
+Please see Output Log for details.
+[2022.12.06-16.34.51:050][326]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.34.51:057][326]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.35.08:019][562]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout3.fbx)
+[2022.12.06-16.35.08:027][562]LogFbx: Loading FBX Scene from C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout3.fbx
+[2022.12.06-16.35.08:044][562]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.06-16.35.09:176][562]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.06-16.35.09:218][562]LogFbx: Display: Triangulating static mesh Cylinder.001
+[2022.12.06-16.35.09:230][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_001...
+[2022.12.06-16.35.09:240][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_001.web_Blockout3_Cylinder_001
+[2022.12.06-16.35.09:255][562]LogFbx: Display: Triangulating static mesh Cylinder.002
+[2022.12.06-16.35.09:259][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_002...
+[2022.12.06-16.35.09:262][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_002.web_Blockout3_Cylinder_002
+[2022.12.06-16.35.09:270][562]LogFbx: Display: Triangulating static mesh Cylinder.003
+[2022.12.06-16.35.09:277][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_003...
+[2022.12.06-16.35.09:281][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_003.web_Blockout3_Cylinder_003
+[2022.12.06-16.35.09:290][562]LogFbx: Display: Triangulating static mesh Cylinder.004
+[2022.12.06-16.35.09:299][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_004...
+[2022.12.06-16.35.09:303][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_004.web_Blockout3_Cylinder_004
+[2022.12.06-16.35.09:313][562]LogFbx: Display: Triangulating static mesh Cylinder.005
+[2022.12.06-16.35.09:327][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_005...
+[2022.12.06-16.35.09:334][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_005.web_Blockout3_Cylinder_005
+[2022.12.06-16.35.09:345][562]LogFbx: Display: Triangulating static mesh Cylinder.006
+[2022.12.06-16.35.09:354][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_006...
+[2022.12.06-16.35.09:359][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_006.web_Blockout3_Cylinder_006
+[2022.12.06-16.35.09:368][562]LogFbx: Display: Triangulating static mesh Cylinder.007
+[2022.12.06-16.35.09:379][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_007...
+[2022.12.06-16.35.09:384][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_007.web_Blockout3_Cylinder_007
+[2022.12.06-16.35.09:394][562]LogFbx: Display: Triangulating static mesh Cylinder.008
+[2022.12.06-16.35.09:403][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_008...
+[2022.12.06-16.35.09:406][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_008.web_Blockout3_Cylinder_008
+[2022.12.06-16.35.09:421][562]LogFbx: Display: Triangulating static mesh Cylinder.009
+[2022.12.06-16.35.09:437][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_009...
+[2022.12.06-16.35.09:443][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_009.web_Blockout3_Cylinder_009
+[2022.12.06-16.35.09:454][562]LogFbx: Display: Triangulating static mesh Cylinder.010
+[2022.12.06-16.35.09:474][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_010...
+[2022.12.06-16.35.09:482][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_010.web_Blockout3_Cylinder_010
+[2022.12.06-16.35.09:491][562]LogFbx: Display: Triangulating static mesh Cylinder.011
+[2022.12.06-16.35.09:510][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_011...
+[2022.12.06-16.35.09:524][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_011.web_Blockout3_Cylinder_011
+[2022.12.06-16.35.09:534][562]LogFbx: Display: Triangulating static mesh Cylinder.012
+[2022.12.06-16.35.09:554][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_012...
+[2022.12.06-16.35.09:568][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_012.web_Blockout3_Cylinder_012
+[2022.12.06-16.35.09:579][562]LogFbx: Display: Triangulating static mesh Cylinder.013
+[2022.12.06-16.35.09:600][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_013...
+[2022.12.06-16.35.09:609][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_013.web_Blockout3_Cylinder_013
+[2022.12.06-16.35.09:622][562]LogFbx: Display: Triangulating static mesh Cylinder.014
+[2022.12.06-16.35.09:644][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_014...
+[2022.12.06-16.35.09:655][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_014.web_Blockout3_Cylinder_014
+[2022.12.06-16.35.09:666][562]LogFbx: Display: Triangulating static mesh Cylinder.015
+[2022.12.06-16.35.09:671][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_015...
+[2022.12.06-16.35.09:674][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_015.web_Blockout3_Cylinder_015
+[2022.12.06-16.35.09:684][562]LogFbx: Display: Triangulating static mesh Cylinder.016
+[2022.12.06-16.35.09:687][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_016...
+[2022.12.06-16.35.09:692][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_016.web_Blockout3_Cylinder_016
+[2022.12.06-16.35.09:702][562]LogFbx: Display: Triangulating static mesh Cylinder.017
+[2022.12.06-16.35.09:708][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_017...
+[2022.12.06-16.35.09:713][562]LogStaticMesh: Built static mesh [0.01s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_017.web_Blockout3_Cylinder_017
+[2022.12.06-16.35.09:723][562]LogFbx: Display: Triangulating static mesh Cylinder.018
+[2022.12.06-16.35.09:727][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_018...
+[2022.12.06-16.35.09:731][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_018.web_Blockout3_Cylinder_018
+[2022.12.06-16.35.09:740][562]LogFbx: Display: Triangulating static mesh Cylinder.019
+[2022.12.06-16.35.09:745][562]LogStaticMesh: Display: Building static mesh web_Blockout3_Cylinder_019...
+[2022.12.06-16.35.09:749][562]LogStaticMesh: Built static mesh [0.00s] /Game/TerraHyphea/Art/3D/Web/web_Blockout3_Cylinder_019.web_Blockout3_Cylinder_019
+[2022.12.06-16.35.12:209][562]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.06-16.35.13:810][624]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.35.13:832][624]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.35.19:479][928]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.12.06-16.35.20:531][928]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.06-16.35.20:562][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.12.06-16.35.20:570][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.06-16.35.20:576][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.12.06-16.36.02:903][180]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout5.fbx)
+[2022.12.06-16.36.02:911][180]LogFbx: Loading FBX Scene from C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout5.fbx
+[2022.12.06-16.36.02:915][180]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.06-16.36.02:915][180]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2022.12.06-16.36.11:078][180]LogSlate: Window 'Message' being destroyed
+[2022.12.06-16.36.11:089][180]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout5.fbx'. Failed to create asset '/Game/TerraHyphea/Art/3D/Web/web_Blockout5'.
+Please see Output Log for details.
+[2022.12.06-16.36.11:089][180]LogAssetTools: Warning: Failed to import 'C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout5.fbx'. Failed to create asset '/Game/TerraHyphea/Art/3D/Web/web_Blockout5'.
+Please see Output Log for details.
+[2022.12.06-16.36.15:130][411]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.36.15:137][411]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.36.50:375][740]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout6.fbx)
+[2022.12.06-16.36.50:384][740]LogFbx: Loading FBX Scene from C:\Users\iriss\Desktop\Projecten\Project Vrij\Art\3D models\Final\web\web_Blockout6.fbx
+[2022.12.06-16.36.50:391][740]LogFbx: FBX Scene Loaded Succesfully
+[2022.12.06-16.36.51:599][740]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.12.06-16.36.51:622][740]LogFbx: Display: Triangulating static mesh Cylinder.010
+[2022.12.06-16.36.51:737][740]LogStaticMesh: Display: Building static mesh web_Blockout6...
+[2022.12.06-16.36.51:784][740]LogStaticMesh: Built static mesh [0.05s] /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6
+[2022.12.06-16.36.51:811][740]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.12.06-16.36.54:176][831]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.36.54:184][831]LogSlate: Window 'Message Log' being destroyed
+[2022.12.06-16.37.30:929][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.12.06-16.37.32:039][412]LogSlate: Window 'Save Content' being destroyed
+[2022.12.06-16.37.32:135][412]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Art/3D/Web/web_Blockout6
+[2022.12.06-16.37.32:135][412]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Projecten/Project Vrij/GIT/PixieWorld/Saved/web_Blockout6AD042BDD4EE0CA74C91D6DBEEE834894.tmp' to '../../../../../../Users/iriss/Desktop/Projecten/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Art/3D/Web/web_Blockout6.uasset'
+[2022.12.06-16.37.33:071][412]LogNiagara: Compiling System NiagaraSystem /Game/TerraHyphea/Art/VFX/Sparkle_Particles/NS_Sparkle.NS_Sparkle took 0.096094 sec, no shader worker used.
+[2022.12.06-16.37.33:073][412]LogAssetEditorSubsystem: Opening Asset editor for World /Game/TerraHyphea/Levels/Iris_Level.Iris_Level
+[2022.12.06-16.37.33:073][412]Cmd: MAP LOAD FILE="../../../../../../Users/iriss/Desktop/Projecten/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Iris_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.12.06-16.37.33:073][412]LightingResults: New page: Lighting Build
+[2022.12.06-16.37.33:073][412]LoadErrors: New page: Loading map: Iris_Level.umap
+[2022.12.06-16.37.33:111][412]LogWorld: UWorld::CleanupWorld for PixieWorld, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.37.33:112][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.37.33:112][412]MapCheck: New page: Map Check
+[2022.12.06-16.37.33:112][412]LightingResults: New page: Lighting Build
+[2022.12.06-16.37.33:118][412]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.06-16.37.33:122][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: ================================================
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Total job queries 103, among them cache hits 0 (0.00%)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Tracking 103 distinct input hashes that result in 57 distinct outputs (55.34%)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: RAM used: 0.31 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Shaders Compiled: 103
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Jobs assigned 103, completed 103 (100.00%)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Time job spent in pending queue: average 4.18 s, longest 21.78 s
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Job execution time: average 14.89 s, max 20.93 s
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Job life time (pending + execution): average 19.06 s, max 23.71
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.71 s
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Jobs were issued in 22 batches (only local compilation was used), average 4.68 jobs/batch
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Average processing rate: 4.34 jobs/sec
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Effective parallelization: 7.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:         TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 3.37 sec, max 3.43 sec, min 3.31 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyHQ (compiled    2 times, average 3.30 sec, max 3.32 sec, min 3.28 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:                                TMaterialCHSTLightMapPolicyLQ (compiled    2 times, average 3.27 sec, max 3.40 sec, min 3.14 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy (compiled    3 times, average 3.22 sec, max 3.91 sec, min 2.40 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 3.06 sec, max 3.35 sec, min 2.54 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:     TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy - 5.45% of total time (compiled    3 times, average 3.22 sec, max 3.91 sec, min 2.40 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 5.18% of total time (compiled    3 times, average 3.06 sec, max 3.35 sec, min 2.54 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 4.13% of total time (compiled    3 times, average 2.44 sec, max 2.58 sec, min 2.37 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 3.85% of total time (compiled    4 times, average 1.71 sec, max 1.89 sec, min 1.51 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.84% of total time (compiled    4 times, average 1.70 sec, max 1.87 sec, min 1.54 sec)
+[2022.12.06-16.37.33:123][412]LogShaderCompilers: Display: ================================================
+[2022.12.06-16.37.33:180][412]LogWorld: UWorld::CleanupWorld for Iris_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.37.33:180][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.37.33:201][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.12.06-16.37.33:211][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.12.06-16.37.33:284][412]LogAudio: Display: Audio Device (ID: 1) registered with world 'Iris_Level'.
+[2022.12.06-16.37.33:285][412]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.37.33:285][412]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.37.33:286][412]LogAIModule: Creating AISystem for world Iris_Level
+[2022.12.06-16.37.33:340][412]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.06-16.37.33:352][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.12.06-16.37.33:368][412]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.06-16.37.33:368][412]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,117ms to complete.
+[2022.12.06-16.37.33:368][412]LogFileHelpers: Loading map 'Iris_Level' took 0.294
+[2022.12.06-16.37.33:395][412]AssetCheck: New page: Asset Save: web_Blockout6
+[2022.12.06-16.37.33:395][412]LogContentValidation: Display: Validating StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6
+[2022.12.06-16.37.33:782][415]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.12.06-16.37.33:782][415]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.12.06-16.37.34:093][416]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2022.12.06-16.37.46:857][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6
+[2022.12.06-16.37.46:857][ 94]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6
+[2022.12.06-16.37.46:857][ 94]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6 as actor: StaticMeshActor /Game/TerraHyphea/Levels/Iris_Level.Iris_Level:PersistentLevel.StaticMeshActor_0
+[2022.12.06-16.37.49:051][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6
+[2022.12.06-16.37.49:051][225]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6
+[2022.12.06-16.37.49:052][225]LogActorFactory: Actor Factory spawned StaticMesh /Game/TerraHyphea/Art/3D/Web/web_Blockout6.web_Blockout6 as actor: StaticMeshActor /Game/TerraHyphea/Levels/Iris_Level.Iris_Level:PersistentLevel.StaticMeshActor_64
+[2022.12.06-16.38.35:972][990]LogViewport: Scene viewport resized to 1379x391, mode Windowed.
+[2022.12.06-16.38.36:014][992]LogViewport: Scene viewport resized to 1379x425, mode Windowed.
+[2022.12.06-16.38.36:062][994]LogViewport: Scene viewport resized to 1379x466, mode Windowed.
+[2022.12.06-16.38.36:111][996]LogViewport: Scene viewport resized to 1379x497, mode Windowed.
+[2022.12.06-16.38.36:145][997]LogViewport: Scene viewport resized to 1379x503, mode Windowed.
+[2022.12.06-16.38.36:214][  0]LogViewport: Scene viewport resized to 1379x504, mode Windowed.
+[2022.12.06-16.38.36:241][  1]LogViewport: Scene viewport resized to 1379x512, mode Windowed.
+[2022.12.06-16.38.36:271][  2]LogViewport: Scene viewport resized to 1379x522, mode Windowed.
+[2022.12.06-16.38.36:326][  4]LogViewport: Scene viewport resized to 1379x528, mode Windowed.
+[2022.12.06-16.38.36:419][  8]LogViewport: Scene viewport resized to 1379x534, mode Windowed.
+[2022.12.06-16.38.36:463][ 10]LogViewport: Scene viewport resized to 1379x535, mode Windowed.
+[2022.12.06-16.38.57:175][244]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.12.06-16.38.57:225][244]LogFMOD: Default sample rate = 48000
+[2022.12.06-16.38.57:225][244]LogFMOD: System sample rate = 48000
+[2022.12.06-16.38.57:225][244]LogFMOD: Matching system sample rate 48000
+[2022.12.06-16.38.57:292][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.06-16.38.57:292][244]PIE: New page: PIE session: Iris_Level (6 dec. 2022 18:38:57)
+[2022.12.06-16.38.57:292][244]LogPlayLevel: Creating play world package: /Game/TerraHyphea/Levels/UEDPIE_0_Iris_Level
+[2022.12.06-16.38.57:314][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021676s)
+[2022.12.06-16.38.57:314][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TerraHyphea/Levels/Iris_Level.Iris_Level to /Game/TerraHyphea/Levels/UEDPIE_0_Iris_Level.Iris_Level (0.021772s)
+[2022.12.06-16.38.57:314][244]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.12.06-16.38.57:314][244]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.06-16.38.57:315][244]LogAIModule: Creating AISystem for world Iris_Level
+[2022.12.06-16.38.57:315][244]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2022.12.06-16.38.57:323][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.12.06-16.38.57:324][244]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.06-16.38.57:324][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.12.06-16.38.57:324][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.06-16.38.57:325][244]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.06-16.38.57:325][244]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.06-16.38.57:325][244]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.06-16.38.57:328][244]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.06-16.38.57:353][244]LogAudioMixer: Display: Using Audio Hardware Device Luidsprekers (Realtek(R) Audio)
+[2022.12.06-16.38.57:353][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.06-16.38.57:353][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.06-16.38.57:353][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.06-16.38.57:354][244]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.12.06-16.38.57:354][244]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.12.06-16.38.57:356][244]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.12.06-16.38.57:356][244]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.12.06-16.38.57:356][244]LogInit: FAudioDevice initialized.
+[2022.12.06-16.38.57:356][244]LogAudio: Display: Audio Device (ID: 3) registered with world 'Iris_Level'.
+[2022.12.06-16.38.57:372][244]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.12.06-16.38.57:379][244]LogWorld: Bringing World /Game/TerraHyphea/Levels/UEDPIE_0_Iris_Level.Iris_Level up for play (max tick rate 60) at 2022.12.06-17.38.57
+[2022.12.06-16.38.57:380][244]LogWorld: Bringing up level for play took: 0.007192
+[2022.12.06-16.38.57:382][244]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2022.12.06-16.38.57:389][244]PIE: Server logged in
+[2022.12.06-16.38.57:389][244]PIE: Play in editor total start time 0,206 seconds.
+[2022.12.06-16.39.11:099][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.39.11:099][ 52]LogWorld: BeginTearingDown for /Game/TerraHyphea/Levels/UEDPIE_0_Iris_Level
+[2022.12.06-16.39.11:100][ 52]LogWorld: UWorld::CleanupWorld for Iris_Level, bSessionEnded=true, bCleanupResources=true
+[2022.12.06-16.39.11:102][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.39.11:119][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.06-16.39.11:122][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.06-16.39.11:134][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.06-16.39.11:134][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.06-16.39.11:136][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.12.06-16.39.11:146][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.12.06-16.39.11:189][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2022.12.06-16.39.18:759][481]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.12.06-16.39.18:787][481]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.12.06-16.39.18:796][482]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2022.12.06-16.39.28:391][ 58]LogContentBrowser: Attempting asset rename: NewMaterial -> Temporary_Web_Material
+[2022.12.06-16.39.28:393][ 58]LogContentBrowser: End creating deferred item NewMaterial
+[2022.12.06-16.39.44:484][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.12.06-16.39.45:389][  8]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.06-16.39.45:407][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.12.06-16.39.45:414][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.12.06-16.39.45:423][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2022.12.06-16.39.47:355][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.12.06-16.39.48:450][124]LogSlate: Window 'Save Content' being destroyed
+[2022.12.06-16.39.48:502][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.12.06-16.39.48:604][124]LogSavePackage: Moving output files for package: /Game/TerraHyphea/Levels/Iris_Level
+[2022.12.06-16.39.48:605][124]LogSavePackage: Moving '../../../../../../Users/iriss/Desktop/Projecten/Project Vrij/GIT/PixieWorld/Saved/Iris_Level1BE7A98644F6B0AB220F7BA94389D00E.tmp' to '../../../../../../Users/iriss/Desktop/Projecten/Project Vrij/GIT/PixieWorld/Content/TerraHyphea/Levels/Iris_Level.umap'
+[2022.12.06-16.39.48:619][124]LogFileHelpers: No new changes to save!
+[2022.12.06-16.39.48:619][124]LogFileHelpers: Saving map 'Iris_Level' took 0.126
+[2022.12.06-16.39.48:634][124]AssetCheck: New page: Asset Save: Iris_Level
+[2022.12.06-16.39.48:634][124]LogContentValidation: Display: Validating World /Game/TerraHyphea/Levels/Iris_Level.Iris_Level
