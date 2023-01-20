@@ -1,20 +1,20 @@
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODPort.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetLookup.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
-C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBankLookup.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAmbientSound.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODPort.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAnimNotifyPlay.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBlueprintStatics.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAudioComponent.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSectionTemplate.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlSection.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterTrack.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventControlTrack.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer\FMODEventParameterSectionTemplate.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetLookup.h
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private\FMODBankLookup.h

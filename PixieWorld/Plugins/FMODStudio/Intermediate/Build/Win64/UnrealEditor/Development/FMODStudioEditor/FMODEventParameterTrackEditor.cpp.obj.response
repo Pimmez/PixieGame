@@ -1,9 +1,9 @@
-"C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODEventParameterTrackEditor.cpp"
+C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODEventParameterTrackEditor.cpp
 /I .
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Classes"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Private"
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Private
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Classes
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AssetRegistry
 /I Runtime
 /I Runtime\AssetRegistry\Public
@@ -270,12 +270,12 @@
 /I Editor\CurveEditor\Public
 /I Editor\EditorWidgets\Public
 /I Editor\WorkspaceMenuStructure\Public
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Inc\FMODStudioEditor"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Public"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Inc\FMODStudio"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes"
-/I "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Public"
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Inc\FMODStudioEditor
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudioEditor\Public
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Inc\FMODStudio
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Classes
+/I C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Source\FMODStudio\Public
 /I Runtime\Media\Public
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
@@ -293,15 +293,15 @@
 /I ThirdParty\PhysX3\PhysX_3.4\Include\geometry
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
-/Yu"C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
-/Fp"C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.pch"
-/Fo"C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.obj"
-/sourceDependencies "C:\Users\iriss\Desktop\Project Vrij\GIT\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.json"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
+/FI"C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
+/Yu"C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h"
+/Fp"C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.pch"
+/Fo"C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.obj"
+/sourceDependencies C:\GithubFolder\PixieGame\PixieWorld\Plugins\FMODStudio\Intermediate\Build\Win64\UnrealEditor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.json
 /Zc:inline
 /nologo
 /Oi
